@@ -1,0 +1,175 @@
+/*
+
+red: #ff0000
+darker-red: #e11e24
+black: #000000
+grey: #a6a6a6
+dark-grey: #666666
+blue: #2a42c8
+
+ */
+
+body {
+    overflow-x: hidden;
+    font-family: 'Lora', serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.big-font {
+    font-size: 1.33em;
+}
+
+#social-nav {
+    font-size: 1.1em;
+}
+
+/*#main-video {*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    left: 50%;*/
+/*    transform: translate(-50%, -50%);*/
+/*}*/
+
+#main-video-mobile {
+    position: relative;
+}
+
+#gloves {
+    background-image: url("/images/expressions-gloves.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#costumes {
+    background-image: url("/images/expressions-costume.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.banner-show-wrap {
+    height: 550px;
+    width: 100%;
+}
+
+.banner-show {
+    background-image: url("/images/edt-show.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#blue-gloves,
+#blue-costumes,
+.bg-blue {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(42, 66, 200, 0.5);
+    z-index: 3;
+}
+
+.blue-bubble {
+    background: #2a42c8;
+    color: white;
+}
+
+/***********************************************************/
+/* NAVIGATION WAVE */
+/***********************************************************/
+
+.custom-shape-divider-top-1633897300 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1633897300 svg {
+    position: relative;
+    display: block;
+    width: calc(183% + 1.3px);
+    height: 398px;
+}
+
+.custom-shape-divider-top-1633897300 .shape-fill {
+    fill: #2A42C8;
+}
+
+/***********************************************************/
+/* MOBILE NAVIGATION WAVE */
+/***********************************************************/
+
+.bg-primary {
+    background: #2a42c8 !important;
+}
+
+/***********************************************************/
+/* TOP SECTION WAVE */
+/***********************************************************/
+
+.custom-shape-divider-bottom-1633897797 {
+    position: absolute;
+    bottom: 99.5%;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1633897797 svg {
+    position: relative;
+    display: block;
+    width: calc(108% + 1.3px);
+    height: 194px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1633897797 .shape-fill {
+    fill: #2A42C8;
+}
+
+/*****************************************************************/
+/* BOTTOM SECTION WAVE */
+/*****************************************************************/
+
+.custom-shape-divider-top-1633898500 {
+    position: absolute;
+    top: 99.5%;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1633898500 svg {
+    position: relative;
+    display: block;
+    width: calc(129% + 1.3px);
+    height: 186px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1633898500 .shape-fill {
+    fill: #2A42C8;
+}
