@@ -54,25 +54,7 @@
                 </div>
                 <div class="col-sm shadow rounded py-3 px-4 mt-2">
                     <h2 class="text-center">Ask Us Anything...</h2>
-                    <form>
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">Your Name</label>
-                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                        </div>
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">Your Email</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                        </div>
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">Subject</label>
-                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                        </div>
-                        <div class="mb-3">
-                            <label for="exampleInputEmail1" class="form-label">Message</label>
-                            <textarea name="message" class="form-control" id="message" cols="30" rows="10"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-primary">Send</button>
-                    </form>
+                    @include('contact.create')
                 </div>
                 <div class="col-sm p-0 m-0" style="position: relative;">
                     <div id="gloves"></div>

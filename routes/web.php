@@ -14,12 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/home', function () {
     return view('home');
 });
+
+//Route::get('/home', function () {
+//    return view('home');
+//});
 
 Route::get('/expressions-dance-theatre-our-story', function () {
     return view('expressions-dance-theatre-our-story');
@@ -72,3 +72,6 @@ Route::get('/news', function () {
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
+
+Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
+Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');

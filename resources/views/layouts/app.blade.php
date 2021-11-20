@@ -26,6 +26,13 @@
 </head>
 <body>
 
+@if(session()->has('message'))
+<div class="alert alert-success alert-dismissible fade show" role="alert" style="position: absolute; z-index: 7; top: 25%; left: 50%; transform: translate(-50%, -50%);">
+    <strong>Success</strong> {{ session()->get('message') }}
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+@endif
+
 {{--@include('social-nav')--}}
 @yield('content')
 {{--@include('footer')--}}
