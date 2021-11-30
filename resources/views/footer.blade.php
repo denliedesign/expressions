@@ -29,13 +29,6 @@
                         <div class="col">
                             <ul class="nav flex-column">
                                 <li class="nav-item py-0 my-0">
-                                    <a class="nav-link text-white py-0 my-0" href="#social-nav">
-                                            <span class="rounded shadow py-1 px-2" style="border: 1px solid white; line-height: 2;">
-                                                Top of Page
-                                            </span>
-                                    </a>
-                                </li>
-                                <li class="nav-item py-0 my-0">
                                     <a class="nav-link text-white py-0 my-0" href="/expressions-dance-theatre-our-story">Our Story</a>
                                 </li>
                                 <li class="nav-item py-0 my-0">
@@ -53,13 +46,13 @@
                                 <li class="nav-item py-0 my-0">
                                     <a class="nav-link text-white py-0 my-0" href="/musical-theater">Musical Theater</a>
                                 </li>
+                                <li class="nav-item py-0 my-0">
+                                    <a class="nav-link text-white py-0 my-0" href="/remarkable-movement">RemarkABLE Movement</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="col">
                             <ul class="nav flex-column">
-                                <li class="nav-item py-0 my-0">
-                                    <a class="nav-link text-white py-0 my-0" href="/remarkable-movement">RemarkABLE Movement</a>
-                                </li>
                                 <li class="nav-item py-0 my-0">
                                     <a class="nav-link text-white py-0 my-0" href="/track">Track</a>
                                 </li>
@@ -77,6 +70,19 @@
                                 </li>
                                 <li class="nav-item py-0 my-0">
                                     <a class="nav-link text-white py-0 my-0" href="/news">News</a>
+                                </li>
+                                <li class="nav-item py-0 my-0">
+                                    <a class="nav-link text-white py-0 my-0" href="https://app.akadadance.com/customer/login?schoolId=AK235599J" target="_blank">General Login</a>
+                                </li>
+                                <li class="nav-item py-0 my-0">
+                                    <a class="nav-link text-white py-0 my-0" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">New Account</a>
+                                </li>
+                                <li class="nav-item py-0 my-0">
+                                    <a class="nav-link text-white py-0 my-0" href="#social-nav">
+                                            <span class="rounded shadow py-1 px-2" style="border: 1px solid white; line-height: 2;">
+                                                Top of Page
+                                            </span>
+                                    </a>
                                 </li>
                             </ul>
                         </div>

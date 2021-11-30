@@ -49,6 +49,15 @@
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/home#ask-us-anything">Contact Us</a>
                     </li>
+                    <li class="nav-item mx-3 dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Login
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="https://app.akadadance.com/customer/login?schoolId=AK235599J" target="_blank">General Login</a></li>
+                            <li><a class="dropdown-item" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">New Account</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </div>
