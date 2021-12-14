@@ -5,13 +5,26 @@
     @include('social-nav')
     @include('navbar')
 
+    <!------------------------MODAL------------------------->
+
+    <div class="d-flex justify-content-center">
+        <div class="alert alert-success alert-dismissible fade show" role="alert" style="width: 75%;">
+            <img src="/images/Rudolph.png" alt="rudolph" style="width: 100%; height: auto;">
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            <p class="text-center pt-3" style="font-size: 2em;">Tickets $20/ea plus tax<br>For Advance Purchase Call <strong>859-344-8489</strong><br>Otherwise, Tickets Will Be Available At The Door</p>
+        </div>
+    </div>
+
+    <!------------------------MODAL------------------------->
+
     <div class="d-flex justify-content-center align-items-center my-5 py-5">
-        <div id="main-video" class="d-none d-md-block" style="z-index: 5;">
-            <iframe class="rounded shadow" width="560" height="315" src="https://www.youtube.com/embed/20AhS2-UfAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        <div id="main-video-mobile" class="d-md-none d-flex justify-content-center">
-            <iframe class="rounded shadow" width="560" height="315" src="https://www.youtube.com/embed/20AhS2-UfAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+{{--        <div id="main-video" class="d-none d-md-block" style="z-index: 5;">--}}
+{{--            <iframe class="rounded shadow" width="560" height="315" src="https://www.youtube.com/embed/20AhS2-UfAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--}}
+{{--        </div>--}}
+{{--        <div id="main-video-mobile" class="d-md-none d-flex justify-content-center">--}}
+{{--            <iframe class="rounded shadow" width="560" height="315" src="https://www.youtube.com/embed/20AhS2-UfAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--}}
+{{--        </div>--}}
+        <img src="/images/gift-of-dance.png" alt="gift of dance" class="img-fluid">
     </div>
 
     <div class="pb-5 mb-md-5">
