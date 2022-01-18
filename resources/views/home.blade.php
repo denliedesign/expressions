@@ -23,7 +23,7 @@
                 <img src="/images/gift-of-dance.png" alt="gift of dance" class="img-fluid">
             </div>
             <div class="col-sm">
-                <img src="/images/winter-mini-sessions.png" alt="winter mini sessions" class="img-fluid">
+                <img src="/images/bouncin-babes.png" alt="bouncin babes" class="img-fluid">
             </div>
         </div>
     </div>
