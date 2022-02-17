@@ -47,7 +47,7 @@
                         </ul>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/home#ask-us-anything">Contact Us</a>
+                        <a class="nav-link" href="/#ask-us-anything">Contact Us</a>
                     </li>
                     <li class="nav-item mx-3 dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

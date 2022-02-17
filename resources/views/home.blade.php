@@ -18,14 +18,32 @@
     <!------------------------END MODAL------------------------->
 
     <div class="container my-5 py-5">
-        <div class="row d-flex justify-content-center align-items-center">
-            <div class="col-sm">
-                <img src="/images/gift-of-dance.png" alt="gift of dance" class="img-fluid">
+        <div>
+            <div class="d-flex justify-content-center">
+                <img src="/images/spring-mini-sessions.png" alt="spring mini sessions" style="max-width: 500px; width: 100%; height: auto;">
             </div>
-            <div class="col-sm">
-                <img src="/images/bouncin-babes.png" alt="bouncin babes" class="img-fluid">
+            <div class="d-flex justify-content-center">
+{{--                <div style="width: max-content;" class="mx-5 p-4 shadow rounded text-center">--}}
+                    <div class="mt-3">
+{{--                        <p>Ready to Leap In?</p>--}}
+                        <div class="btn btn-primary btn-lg">
+                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll Today!</a>
+                        </div>
+                    </div>
+{{--                </div>--}}
             </div>
         </div>
+{{--        <video controls poster="/images/edt-fun.png" style="width: 100%;" class="rounded shadow">--}}
+{{--            <source src="" type="video/mp4">--}}
+{{--        </video>--}}
+{{--        <div class="row d-flex justify-content-center align-items-center">--}}
+{{--            <div class="col-sm">--}}
+{{--                <img src="/images/gift-of-dance.png" alt="gift of dance" class="img-fluid">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <img src="/images/bouncin-babes.png" alt="bouncin babes" class="img-fluid">--}}
+{{--            </div>--}}
+{{--        </div>--}}
     </div>
 
     <div class="pb-5 mb-md-5">
