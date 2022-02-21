@@ -17,10 +17,10 @@
 
     <!------------------------END MODAL------------------------->
 
-    <div class="container my-5 py-5">
+    <div class="my-5 py-5">
         <div>
-            <div class="d-flex justify-content-center">
-                <img src="/images/spring-mini-sessions.png" alt="spring mini sessions" style="max-width: 500px; width: 100%; height: auto;">
+            <div class="d-flex justify-content-center mt-5">
+                <img src="/images/spring-banner.png" alt="spring mini sessions" style="width: 100%;">
             </div>
             <div class="d-flex justify-content-center">
 {{--                <div style="width: max-content;" class="mx-5 p-4 shadow rounded text-center">--}}
