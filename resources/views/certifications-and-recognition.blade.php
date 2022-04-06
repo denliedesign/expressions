@@ -14,11 +14,14 @@
                     <ul class="list-group big-font">
                         <li class="list-group-item">Acrobatic Arts Certified Studio</li>
                         <li class="list-group-item">Licensed Kentucky Charter Member of "More Than Just Great Dancing"</li>
-                        <li class="list-group-item">2019 Industry Dance Awards Nominee for "In Remembrance"</li>
-                        <li class="list-group-item">2018 Industry Dance Awards Nominee for "Pump Up the Volume"</li>
+{{--                        <li class="list-group-item">2019 Industry Dance Awards Nominee for "In Remembrance"</li>--}}
+{{--                        <li class="list-group-item">2018 Industry Dance Awards Nominee for "Pump Up the Volume"</li>--}}
                         <li class="list-group-item">Member of Dance Educators of America since 1999</li>
                         <li class="list-group-item">Affiliate Member of Association of Dance Conventions and Competitions</li>
                         <li class="list-group-item">Ambassador of Youth Protection Advocates in Dance (YPAD)</li>
+                        <li class="list-group-item">Taking Shape STAR Leader Affiliate Member</li>
+                        <li class="list-group-item">Taking Shape Karma Kids Affiliate Member</li>
+                        <li class="list-group-item">Rhythm Works Integrative Dance Certified</li>
                     </ul>
                 </div>
                 <div class="col-sm">
@@ -28,6 +31,9 @@
                         <div class="col"><img src="/images/logo-Dance-Educators-Of-America.jpg" alt="" class="img-fluid"></div>
                         <div class="col"><img src="/images/logo-ADCC.jpg" alt="" class="img-fluid"></div>
                         <div class="col"><img src="/images/ypad-badge.png" alt="" class="img-fluid"></div>
+                        <div class="col"><img src="/images/logo-rhythm-works.png" alt="" class="img-fluid"></div>
+                        <div class="col"><img src="/images/logo-star-leader.png" alt="" class="img-fluid"></div>
+                        <div class="col"><img src="/images/logo-taking-shape.png" alt="" class="img-fluid"></div>
                     </div>
                 </div>
             </div>

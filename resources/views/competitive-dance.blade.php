@@ -16,8 +16,8 @@
                 <strong>COMMITMENT</strong>
                 <br>Becoming a Sundancer is a great commitment.  Dancers train weekly in our Track level classes, taking two ballet classes, jazz, tap, and lyrical…and that is just the minimum requirement!  They are also required to take summer classes as well as workshops throughout the year.
                 <br><br>
-                <strong>2021-2022 TEAM AUDITIONS</strong>
-                <br>We have already concluded our auditions for the 2021-2022 competition team. We require dancers to take summer classes at EDT if they wish to audition for the next season.  Please contact us for additional information on placement.
+                <strong>2022-2023 TEAM AUDITIONS</strong>
+                <br>Auditions for the 2022-2023 competition team will be held on August 12-13, 2022. We require dancers to take summer classes at EDT if they wish to audition for the next season. Please contact us for additional information and Summer 2022 class placement.
             </p>
         </div>
     </div>
