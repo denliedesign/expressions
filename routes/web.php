@@ -69,6 +69,10 @@ Route::get('/news', function () {
     return view('news');
 });
 
+Route::get('/summer', function () {
+    return view('summer');
+});
+
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
