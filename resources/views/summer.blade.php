@@ -16,10 +16,10 @@
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                 <a href="/images/summer-2022.pdf" target="_blank">
-                    <img src="/images/summer-2022-1.jpg" alt="summer flyer" class="img-fluid">
+                    <img src="/images/summer-p1.png" alt="summer flyer" class="img-fluid">
                 </a>
                 <a href="/images/summer-2022.pdf" target="_blank">
-                    <img src="/images/summer-2022-2.jpg" alt="summer flyer" class="img-fluid">
+                    <img src="/images/summer-p2.png" alt="summer flyer" class="img-fluid">
                 </a>
             </div>
             <div class="d-flex justify-content-center my-4">
