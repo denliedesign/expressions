@@ -73,6 +73,10 @@ Route::get('/summer', function () {
     return view('summer');
 });
 
+Route::get('/fall', function () {
+    return view('fall');
+});
+
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
