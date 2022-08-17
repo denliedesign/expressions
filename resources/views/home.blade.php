@@ -18,10 +18,10 @@
     <!------------------------END MODAL------------------------->
 
     <div class="mb-5 pb-5">
-        <div>
+        <div class="mt-5">
             <div class="d-flex justify-content-center">
 {{--                <img src="/images/spring-banner.png" alt="spring mini sessions" style="width: 100%;">--}}
-                <img src="/images/summer-banner-1.png" alt="enroll summer" style="width: 100%;">
+                <img src="/images/fall-banner-2022.png" alt="enroll summer" style="width: 100%;">
             </div>
             <div class="d-flex justify-content-center">
 {{--                <div style="width: max-content;" class="mx-5 p-4 shadow rounded text-center">--}}
