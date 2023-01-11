@@ -57,9 +57,9 @@ Route::get('/competitive-dance', function () {
     return view('competitive-dance');
 });
 
-Route::get('/tuition-and-fees', function () {
-    return view('tuition-and-fees');
-});
+//Route::get('/tuition-and-fees', function () {
+//    return view('tuition-and-fees');
+//});
 
 Route::get('/dress-code', function () {
     return view('dress-code');
@@ -75,6 +75,10 @@ Route::get('/summer', function () {
 
 Route::get('/fall', function () {
     return view('fall');
+});
+
+Route::get('/spring', function () {
+    return view('spring');
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {

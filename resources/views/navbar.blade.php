@@ -24,7 +24,7 @@
                         </ul>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/fall">Fall</a>
+                        <a class="nav-link" href="/spring">Spring</a>
 {{--                        <a class="nav-link" href="/summer">Summer</a>--}}
                     </li>
                     <li class="nav-item mx-3 dropdown">
@@ -44,7 +44,7 @@
                             Studio FAQs
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="/tuition-and-fees">Tuition & Fees</a></li>
+{{--                            <li><a class="dropdown-item" href="/tuition-and-fees">Tuition & Fees</a></li>--}}
                             <li><a class="dropdown-item" href="/dress-code">Dress Code</a></li>
                             <li><a class="dropdown-item" href="https://edtfamily.teamapp.com" target="_blank">Calendar</a></li>
                             <li><a class="dropdown-item" href="/news">News</a></li>

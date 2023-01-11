@@ -16,14 +16,18 @@
                 <li class="list-group-item">Chelsea Massie</li>
                 <li class="list-group-item">Caitlin Ackerman</li>
                 <li class="list-group-item">Holly Mueller</li>
-                <li class="list-group-item">Erin Laytart</li>
+                <li class="list-group-item">Jessica Henwood</li>
                 <li class="list-group-item">Lori Wainscott</li>
                 <li class="list-group-item">Jackie Heusner</li>
-                <li class="list-group-item">Geena Hunt</li>
-                <li class="list-group-item">Kerry Enders</li>
                 <li class="list-group-item">Gabby Weber</li>
-                <li class="list-group-item">Selena Ballou <span class="badge bg-secondary">Support Staff</span></li>
-                <li class="list-group-item">Emily Dunn <span class="badge bg-secondary">Support Staff</span></li>
+                <li class="list-group-item">Jennifer Johnson</li>
+                <li class="list-group-item">Flora McLeod</li>
+                <li class="list-group-item">Lauren Sokol</li>
+                <li class="list-group-item">Grace Evans</li>
+                <li class="list-group-item">Erin Laytart <span class="badge bg-secondary">Office Assistant</span></li>
+                <li class="list-group-item">Katie Elfers <span class="badge bg-secondary">Office Assistant</span></li>
+                <li class="list-group-item">Stefanie Stubblefield <span class="badge bg-secondary">Office Assistant</span></li>
+                <li class="list-group-item">Emily Dunn <span class="badge bg-secondary">Costume Manager</span></li>
             </ul>
         </div>
     </div>

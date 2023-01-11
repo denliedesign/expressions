@@ -59,9 +59,9 @@
                                 <li class="nav-item py-0 my-0">
                                     <a class="nav-link text-white py-0 my-0" href="/competitive-dance">Competitive Dance</a>
                                 </li>
-                                <li class="nav-item py-0 my-0">
-                                    <a class="nav-link text-white py-0 my-0" href="/tuition-and-fees">Tuition & Fees</a>
-                                </li>
+{{--                                <li class="nav-item py-0 my-0">--}}
+{{--                                    <a class="nav-link text-white py-0 my-0" href="/tuition-and-fees">Tuition & Fees</a>--}}
+{{--                                </li>--}}
                                 <li class="nav-item py-0 my-0">
                                     <a class="nav-link text-white py-0 my-0" href="/dress-code">Dress Code</a>
                                 </li>
