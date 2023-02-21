@@ -36,27 +36,24 @@
 
 
             <!-- SPRING MINI SESSIONS 2023 -->
-
             <div class="row py-4">
                 <div class="col-sm">
-                    <img src="/images/mini-sing.png" alt="sing mini session" class="img-fluid shadow rounded my-3">
+                    <img src="/images/encanto-magic.png" alt="encanto mini session" class="img-fluid shadow rounded my-3">
                 </div>
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div>
-                            <h3>Sing and Dance Your Heart Out Mini Session</h3>
+                            <h3>Encanto Magic Mini Session</h3>
                             <p>
-                                Our Sing and Dance Your Heart Out Mini Session starts on February 2nd. Inspired by the hit movie Sing 2, participants will sing and dance their way through 4 weeks of fun musical hits . No experience is necessary. If your little one loves to move and groove, this is the perfect class to join!
+                                Join us beginning May 4th and discover your magical gifts! Participants will enjoy the music of Encanto in this fun-filled, creative movement dance class. No experience is necessary. We can't wait for your child's magical journey to begin!
                             </p>
                             <p>
                                 Thursdays 6:15-7:00PM
-                                <br>February 2 - February 23
+                                <br>May 4 - May 25
                                 <br>Ages 4-6
                                 <br>Tuition: $90
-                                <br><br>
-                                Attire: Dancers can wear a leotard and tights or comfortable athletic attire. Ballet shoes or socks should be worn.
-                                <br><br>
-                                Parents will enjoy a mini-performance on the last week of class!
+                                <br><br>Attire: Dancers can wear a leotard and tights or comfortable athletic attire. Encanto-inspired clothing is also welcome! Ballet shoes or socks should be worn.
+                                <br><br>Parents will enjoy a mini-performance on the last week of class!
                             </p>
                             <div class="btn btn-primary btn-lg shadow">
                                 <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
@@ -66,34 +63,63 @@
                 </div>
             </div>
 
-            <div class="row py-4">
-                <div class="col-sm">
-                    <img src="/images/mini-frozen.png" alt="frozen mini session" class="img-fluid shadow rounded my-3">
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div>
-                            <h3>Frozen Friends Mini Session</h3>
-                            <p>
-                                Did you hear the magical news? Our Frozen Friends Mini Session starts on March 2nd. Inspired by the hit movie Frozen, participants will dance their way through 5 weeks of magical adventures. No experience is necessary. If your little one loves Elsa, Anna, Olaf, and the crew, then this class is PERFECT for you!
-                            </p>
-                            <p>
-                                Thursdays 6:15-7:00PM
-                                <br>March 2 - March 30
-                                <br>Ages 4-6
-                                <br>Tuition: $112
-                                <br><br>
-                                Attire: Dancers can wear a leotard and tights or their favorite Frozen attire. Ballet shoes or socks should be worn.
-                                <br><br>
-                                Parents will enjoy a mini-performance on the last week of class!
-                            </p>
-                            <div class="btn btn-primary btn-lg shadow">
-                                <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="row py-4">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/mini-sing.png" alt="sing mini session" class="img-fluid shadow rounded my-3">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div>--}}
+{{--                            <h3>Sing and Dance Your Heart Out Mini Session</h3>--}}
+{{--                            <p>--}}
+{{--                                Our Sing and Dance Your Heart Out Mini Session starts on February 2nd. Inspired by the hit movie Sing 2, participants will sing and dance their way through 4 weeks of fun musical hits . No experience is necessary. If your little one loves to move and groove, this is the perfect class to join!--}}
+{{--                            </p>--}}
+{{--                            <p>--}}
+{{--                                Thursdays 6:15-7:00PM--}}
+{{--                                <br>February 2 - February 23--}}
+{{--                                <br>Ages 4-6--}}
+{{--                                <br>Tuition: $90--}}
+{{--                                <br><br>--}}
+{{--                                Attire: Dancers can wear a leotard and tights or comfortable athletic attire. Ballet shoes or socks should be worn.--}}
+{{--                                <br><br>--}}
+{{--                                Parents will enjoy a mini-performance on the last week of class!--}}
+{{--                            </p>--}}
+{{--                            <div class="btn btn-primary btn-lg shadow">--}}
+{{--                                <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+
+{{--            <div class="row py-4">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/mini-frozen.png" alt="frozen mini session" class="img-fluid shadow rounded my-3">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div>--}}
+{{--                            <h3>Frozen Friends Mini Session</h3>--}}
+{{--                            <p>--}}
+{{--                                Did you hear the magical news? Our Frozen Friends Mini Session starts on March 2nd. Inspired by the hit movie Frozen, participants will dance their way through 5 weeks of magical adventures. No experience is necessary. If your little one loves Elsa, Anna, Olaf, and the crew, then this class is PERFECT for you!--}}
+{{--                            </p>--}}
+{{--                            <p>--}}
+{{--                                Thursdays 6:15-7:00PM--}}
+{{--                                <br>March 2 - March 30--}}
+{{--                                <br>Ages 4-6--}}
+{{--                                <br>Tuition: $112--}}
+{{--                                <br><br>--}}
+{{--                                Attire: Dancers can wear a leotard and tights or their favorite Frozen attire. Ballet shoes or socks should be worn.--}}
+{{--                                <br><br>--}}
+{{--                                Parents will enjoy a mini-performance on the last week of class!--}}
+{{--                            </p>--}}
+{{--                            <div class="btn btn-primary btn-lg shadow">--}}
+{{--                                <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <!-- END OF SPRING MINI SESSIONS 2023 -->
 
