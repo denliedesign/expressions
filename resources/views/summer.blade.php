@@ -22,6 +22,13 @@
                     <img src="/images/summer-7-and-up.png" alt="summer schedule" class="img-fluid shadow rounded">
                 </div>
             </div>
+            <div class="row mb-4">
+                <div class="col-sm-3"></div>
+                <div class="col-sm">
+                    <img src="/images/summer-mt.png" alt="summer schedule" class="img-fluid shadow rounded">
+                </div>
+                <div class="col-sm-3"></div>
+            </div>
             <div class="d-flex justify-content-center mb-5">
                 <div class="btn btn-primary btn-lg">
                     <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll Today!</a>
