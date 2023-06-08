@@ -17,23 +17,19 @@
 
     <!------------------------END MODAL------------------------->
 
-    <div class="mb-5 pb-5">
-        <div class="mt-5 pt-5">
-            <div class="d-flex justify-content-center">
+    <div class="mb-5">
+        <div>
+            <div style="position: relative; width: 100%;">
 {{--                <img src="/images/spring-banner.png" alt="spring mini sessions" style="width: 100%;">--}}
-                <img src="/images/summer-2023.png" alt="enroll summer" style="width: 100%;">
-            </div>
-            <div class="d-flex justify-content-center">
-{{--                <div style="width: max-content;" class="mx-5 p-4 shadow rounded text-center">--}}
-                    <div class="mt-3">
-{{--                        <p>Ready to Leap In?</p>--}}
-                        <div class="btn btn-primary btn-lg">
-                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll Today!</a>
-                        </div>
-                    </div>
-{{--                </div>--}}
+{{--                <img src="/images/summer-2023.png" alt="enroll summer" style="width: 100%;">--}}
+                <img src="/images/little-dancers.jpg" alt="little dancers in costume in a row" style="width: 100%;">
+                <div style="background: linear-gradient(to bottom, transparent, rgba(0,0,0,.20)); height: 100%; width: 100%; position: absolute; top: 0; left: 0; z-index: 2;"></div>
+                <div class="d-none d-sm-none d-md-block d-lg-block" style="position: absolute; bottom: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 3;">
+                    <h1 class="text-center text-white text-uppercase fw-bold" style="text-shadow: 2px 2px 4px black; font-size: 4em;">This is where you <span style="color: #E10100;">start</span>...<br>This is where you <span style="color: #E10100;">grow</span>!</h1>
+                </div>
             </div>
         </div>
+
 {{--        <video controls poster="/images/edt-fun.png" style="width: 100%;" class="rounded shadow">--}}
 {{--            <source src="" type="video/mp4">--}}
 {{--        </video>--}}
@@ -47,34 +43,97 @@
 {{--        </div>--}}
     </div>
 
+    <div class="container">
+        <div class="d-block d-sm-block d-md-none d-lg-none">
+            <h1 class="text-center text-white text-uppercase fw-bold" style="text-shadow: 2px 2px 4px black; font-size: 4em;">This is where you <span style="color: #E10100;">start</span>...<br>This is where you <span style="color: #E10100;">grow</span>!</h1>
+        </div>
+    </div>
     <div class="pb-5 mb-md-5">
         <div class="container pb-md-5 mb-md-5">
             <h2 class="text-center">We Have Built a Reputation for Excellence in Dance Instruction</h2>
             <p class="text-center big-font">
                 From your child’s first class to their graduation performance, EDT has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
+            <div class="d-flex justify-content-center">
+                <div class="btn btn-primary btn-lg">
+                    <a class="text-white text-decoration-none" href="/summer">Find Your Class</a>
+                </div>
+            </div>
         </div>
     </div>
 
     <div style="width: 100%; background: #2A42C8; position: relative;" class="my-0 py-0">
         @include('waves-top')
-        <div class="row my-0 py-0 text-white">
-            <div class="col-sm d-none d-md-block" style="position: relative; height: 100vh;">
-                <img src="/images/expressions-flamingos.jpg" alt="flamingo dancers" class="img-fluid rounded shadow" style="height: 400px; width: auto; position: absolute; top: 2%; left: 8%;">
-                <img src="/images/expressions-registration.jpg" alt="dancers on stage" class="img-fluid rounded shadow" style="height: 400px; width: auto; position: absolute; top: 44%; left: 20%;">
-            </div>
-            <div class="col-sm d-md-none">
-                <img src="/images/expressions-flamingos.jpg" alt="flamingo dancers" class="img-fluid rounded shadow" style="height: 400px; width: auto;">
-                <img src="/images/expressions-registration.jpg" alt="dancers on stage" class="img-fluid rounded shadow" style="height: 400px; width: auto;">
-            </div>
-            <div class="col-sm">
-                <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid">
-                <h2 class="text-center">EDT is a Safer Studio™</h2>
-                <p class="text-center big-font">
-                    EDT focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.
-                </p>
+        <div class="container text-white py-5">
+            <h2 class="text-center mb-5">Why Choose Us?</h2>
+            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/badge-celebrate-25.png" alt="certifications" style="height: 125px; width: auto; filter: invert(100%);">
+                    </div>
+                        <p class="big-font text-center">Celebrating 25 Years in Business</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/icon-cpr.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">First Aid & CPR Certified Teachers & Staff</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/icon-bg-check.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">Background Checked Teachers & Staff</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/logo-MTJGD-charter.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">Licensed Kentucky Charter Member of More Than Just Great Dancing</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/ypad-badge.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">Youth Protection Advocates in Dance Ambassador (YPAD)</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/logo-dance-educators-of-america.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">Member of Dance Educators of America</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/logo-Acro-Arts.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">Acrobatic Arts Certified Teachers</p>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/icon-rhythm-works.png" alt="certifications" style="height: 125px; width: auto;">
+                    </div>
+                        <p class="big-font text-center">Certified Rhythm Works Integrative Dance Instructors</p>
+                </div>
             </div>
         </div>
+{{--        <div class="row my-0 py-0 text-white">--}}
+{{--            <div class="col-sm d-none d-md-block" style="position: relative; height: 100vh;">--}}
+{{--                <img src="/images/expressions-flamingos.jpg" alt="flamingo dancers" class="img-fluid rounded shadow" style="height: 400px; width: auto; position: absolute; top: 2%; left: 8%;">--}}
+{{--                <img src="/images/expressions-registration.jpg" alt="dancers on stage" class="img-fluid rounded shadow" style="height: 400px; width: auto; position: absolute; top: 44%; left: 20%;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm d-md-none">--}}
+{{--                <img src="/images/expressions-flamingos.jpg" alt="flamingo dancers" class="img-fluid rounded shadow" style="height: 400px; width: auto;">--}}
+{{--                <img src="/images/expressions-registration.jpg" alt="dancers on stage" class="img-fluid rounded shadow" style="height: 400px; width: auto;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid">--}}
+{{--                <h2 class="text-center">EDT is a Safer Studio™</h2>--}}
+{{--                <p class="text-center big-font">--}}
+{{--                    EDT focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.--}}
+{{--                </p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         @include('waves-bottom')
     </div>
 

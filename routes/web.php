@@ -77,9 +77,9 @@ Route::get('/fall', function () {
     return view('fall');
 });
 
-Route::get('/spring', function () {
-    return view('spring');
-});
+//Route::get('/spring', function () {
+//    return view('spring');
+//});
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
