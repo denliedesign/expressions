@@ -22,9 +22,9 @@
             <div style="position: relative; width: 100%;">
 {{--                <img src="/images/spring-banner.png" alt="spring mini sessions" style="width: 100%;">--}}
 {{--                <img src="/images/summer-2023.png" alt="enroll summer" style="width: 100%;">--}}
-                <img src="/images/little-dancers.jpg" alt="little dancers in costume in a row" style="width: 100%;">
+                <img src="/images/header-july-23-crop.jpg" alt="little dancers in costume in a row" style="width: 100%;">
                 <div style="background: linear-gradient(to bottom, transparent, rgba(0,0,0,.20)); height: 100%; width: 100%; position: absolute; top: 0; left: 0; z-index: 2;"></div>
-                <div class="d-none d-sm-none d-md-block d-lg-block" style="position: absolute; bottom: 30%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 3;">
+                <div class="d-none d-sm-none d-md-block d-lg-block" style="position: absolute; bottom: 5%; left: 50%; transform: translate(-50%, -50%); width: 100%; z-index: 3;">
                     <h1 class="text-center text-white text-uppercase fw-bold" style="text-shadow: 2px 2px 4px black; font-size: 4em;">This is where you <span style="color: #E10100;">start</span>...<br>This is where you <span style="color: #E10100;">grow</span>!</h1>
                 </div>
             </div>
@@ -56,7 +56,7 @@
             </p>
             <div class="d-flex justify-content-center">
                 <div class="btn btn-primary btn-lg">
-                    <a class="text-white text-decoration-none" href="/summer">Find Your Class</a>
+                    <a class="text-white text-decoration-none" href="/fall">Find Your Class</a>
                 </div>
             </div>
         </div>
