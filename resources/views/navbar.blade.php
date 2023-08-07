@@ -27,7 +27,7 @@
                         <a class="nav-link" href="/fall">Fall</a>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/summer">Summer</a>
+                        <a class="nav-link" href="/mini-sessions">Mini Sessions</a>
                     </li>
                     <li class="nav-item mx-3 dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
