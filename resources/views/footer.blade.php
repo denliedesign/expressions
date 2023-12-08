@@ -16,8 +16,8 @@
                         <h5 class="text-uppercase text-center">&mdash; Contact Us &mdash;</h5>
                         <p>
                             <ion-icon name="navigate-outline"></ion-icon>
-                            2434 High St.
-                            <br>Crescent Springs, KY 41017
+                            2641 Crescent Springs Pike
+                            <br>Erlanger, KY 41017
                             <br><ion-icon name="call-outline"></ion-icon> +1 859-344-8489
                             <br><ion-icon name="mail-outline"></ion-icon> info@nkydance.com
                         </p>

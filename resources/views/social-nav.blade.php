@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm col-md-4">
-                <ion-icon name="navigate-outline"></ion-icon> 2434 High Street, Crescent Springs, KY 41017
+                <ion-icon name="navigate-outline"></ion-icon> 2641 Crescent Springs Pike, Erlanger, KY 41017
             </div>
             <div class="col-sm col-md-3">
                 <ion-icon name="call-outline"></ion-icon> 859-344-8489
