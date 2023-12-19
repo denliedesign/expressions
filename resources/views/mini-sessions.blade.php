@@ -7,6 +7,28 @@
         <div class="container my-md-5 py-md-5">
             <h2 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h2>
 
+            <div>
+                <div class="d-flex justify-content-center">
+                    <img src="/images/mini-sessions-aladdin.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
+                </div>
+                <h2 class="text-center text-uppercase">&mdash; Aladdin &mdash;</h2>
+                <p class="mt-3 text-center">
+                    Young actors, this one's for you! Join us on a magic carpet ride with Aladdin, our 6-week mini session for kids who love to sing, act, and dance!!!
+                    <br><br>
+                    Aladdin Mini Session for Ages 5-8
+                    <br>
+                    Mondays 5:30-6:15PM // January 8 - February 12
+                    <br><br>
+                    Please wear comfortable clothing and sneakers. Parent observation on the last day of class.
+                </p>
+                <div class="d-flex justify-content-center my-4">
+                    <div class="btn btn-primary btn-lg">
+                        <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
+                    </div>
+                </div>
+                <hr class="my-3">
+            </div>
+
             <div class="d-flex justify-content-center">
                 <img src="/images/Trolls.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
             </div>
