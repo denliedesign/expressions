@@ -15,15 +15,17 @@
                 <li class="list-group-item">Kaelyn Gray</li>
                 <li class="list-group-item">Chelsea Massie</li>
                 <li class="list-group-item">Caitlin Ackerman</li>
-                <li class="list-group-item">Holly Mueller</li>
+{{--                <li class="list-group-item">Holly Mueller</li>--}}
                 <li class="list-group-item">Jessica Henwood</li>
                 <li class="list-group-item">Lori Wainscott</li>
-                <li class="list-group-item">Jackie Heusner</li>
+{{--                <li class="list-group-item">Jackie Heusner</li>--}}
                 <li class="list-group-item">Gabby Weber</li>
                 <li class="list-group-item">Jennifer Johnson</li>
                 <li class="list-group-item">Flora McLeod</li>
                 <li class="list-group-item">Lauren Sokol</li>
                 <li class="list-group-item">Grace Evans</li>
+                <li class="list-group-item">Jordan Perry</li>
+                <li class="list-group-item">Riley Best</li>
                 <li class="list-group-item">Erin Laytart <span class="badge bg-secondary">Office Assistant</span></li>
                 <li class="list-group-item">Katie Elfers <span class="badge bg-secondary">Office Assistant</span></li>
                 <li class="list-group-item">Stefanie Stubblefield <span class="badge bg-secondary">Office Assistant</span></li>

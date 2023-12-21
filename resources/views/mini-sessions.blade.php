@@ -11,16 +11,29 @@
                 <div class="d-flex justify-content-center">
                     <img src="/images/mini-sessions-aladdin.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
                 </div>
-                <h2 class="text-center text-uppercase">&mdash; Aladdin &mdash;</h2>
+                <h2 class="text-center text-uppercase">&mdash; Aladdin Musical Theater Mini Session &mdash;</h2>
                 <p class="mt-3 text-center">
-                    Young actors, this one's for you! Join us on a magic carpet ride with Aladdin, our 6-week mini session for kids who love to sing, act, and dance!!!
+                    Young actors ages 5-8, this one's for you! Join us on a magic carpet ride with Aladdin, our 6-week mini session for kids who love to sing, act, and dance!!
                     <br><br>
-                    Aladdin Mini Session for Ages 5-8
-                    <br>
-                    Mondays 5:30-6:15PM // January 8 - February 12
+                    January 8 - February 12
+                    <br>Mondays 5:30-6:15PM
+                    <br>Ages 5-8
                     <br><br>
-                    Please wear comfortable clothing and sneakers. Parent observation on the last day of class.
+                    Tuition: $149
+                    <br><br>
+                    Attire: Comfortable clothing and sneakers.
+                    <br><br>
+                    Parents may observe the last week of class!
                 </p>
+{{--                <p class="mt-3 text-center">--}}
+{{--                    Young actors, this one's for you! Join us on a magic carpet ride with Aladdin, our 6-week mini session for kids who love to sing, act, and dance!!!--}}
+{{--                    <br><br>--}}
+{{--                    Aladdin Mini Session for Ages 5-8--}}
+{{--                    <br>--}}
+{{--                    Mondays 5:30-6:15PM // January 8 - February 12--}}
+{{--                    <br><br>--}}
+{{--                    Please wear comfortable clothing and sneakers. Parent observation on the last day of class.--}}
+{{--                </p>--}}
                 <div class="d-flex justify-content-center my-4">
                     <div class="btn btn-primary btn-lg">
                         <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>

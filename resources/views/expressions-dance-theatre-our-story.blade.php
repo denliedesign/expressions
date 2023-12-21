@@ -16,7 +16,7 @@
                         <br><br>
                         In 1999, after completing her education and working professionally as a dancer and choreographer, Cara opened Expressions Dance Theatre with 37 students and two very small classrooms. She and her staff have continued the tradition of excellence started by her mother and have dedicated themselves to the quality training of each student for over 20 years.
                         <br><br>
-                        Today, Expressions Dance Theatre occupies a 4-studio location in the same city in which it began.  Over 400 students call Expressions Dance Theatre home.
+                        Today, Expressions Dance Theatre occupies a 5-studio location in Erlanger, KY. Over 400 students call Expressions Dance Theatre home.
                         <br><br>
                         Our mission is to offer a holistic creative arts program, taught by a highly accredited faculty, emphasizing technical quality and creative expression in dance.
 
@@ -32,7 +32,7 @@
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Teachers</span>
                             </div>
                             <p>
-                                Our teachers are passionate about teaching and focused on developing a strong technical foundation, artistry, and performance quality in each dancer.  Each staff member is also background-checked.
+                                Our teachers are passionate about teaching and focused on developing a strong technical foundation, artistry, and performance quality in each dancer. Each staff member is also background-checked and has been CPR/AED Trained and Certified.
                             </p>
                         </div>
                         <div class="checklist-group-item">
@@ -41,7 +41,7 @@
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Facility</span>
                             </div>
                             <p>
-                                Our four-studio facility is equipped with high ceilings, professionally-raised Marley flooring, secure full-length mirrors, mounted barres, two viewing windows and room cameras, and security system.
+                                Our newly remodeled, 10,000 square foot, five-studio facility is equipped with its own parking lot, professionally-raised Marley flooring, secure full-length mirrors, mounted barres, and professionally-wired sound. A fully-stocked First Aid cabinet and AED Unit are also installed in a convenient location within the studio.
                             </p>
                         </div>
                         <div class="checklist-group-item">
@@ -50,7 +50,7 @@
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Performances</span>
                             </div>
                             <p>
-                                Our shows are held, when possible, at Cincinnati’s School for Creative & Performing Arts, providing a professional performing experience for all students.
+                                Our shows are held at reputable theaters in the NKY/Cincinnati area, providing a professional performing experience for all students.
                             </p>
                         </div>
                         <div class="checklist-group-item">

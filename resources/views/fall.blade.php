@@ -8,7 +8,7 @@
     {{--    </div>--}}
     <div class="my-5">
         <div class="container my-md-5 py-md-5">
-            <h2 class="text-center text-uppercase">&mdash; Fall 2023-2024 &mdash;</h2>
+            <h2 class="text-center text-uppercase">&mdash; Spring 2024 &mdash;</h2>
 {{--            <img src="/images/season-25.png" alt="season 25 logo" class="img-fluid">--}}
 {{--                        <div class="d-flex justify-content-center my-4">--}}
 {{--                            <div class="btn btn-primary btn-lg shadow">--}}

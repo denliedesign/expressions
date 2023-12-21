@@ -156,7 +156,29 @@
         </div>
     </section>
 
-<div style="width: 100%"><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=2434%20High%20Street,%20Crescent%20Springs,%20KY%2041017+(Expressions%20Dance%20Theatre)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
+    <div class="" style="height: 100%; background: #C6EE56;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/we-moved.png" alt="new facility" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex align-items-center justify-content-center" style="height: 100%;">
+                        <h2 style="font-size: 2.5em;">
+                            We have moved to a new home!
+                            <br>We can't wait to share it with you when our classes begin on Monday, January 8th!
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{--<div style="width: 100%"><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=2434%20High%20Street,%20Crescent%20Springs,%20KY%2041017+(Expressions%20Dance%20Theatre)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>--}}
+<div style="width: 100%"><div style="width: 100%"><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=350&amp;hl=en&amp;q=2641%20Crescent%20Springs%20Pike,%20Erlanger,%20KY%2041017+(Expressions%20Dance%20Theatre)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div></div>
+
 
 @include('footer')
 

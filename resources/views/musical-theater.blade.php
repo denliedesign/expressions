@@ -27,16 +27,36 @@
 {{--                    Our “Minis” class will introduce our youngest theater students to the world of theater, focusing on fun, imagination, and structured learning with an emphasis on ensemble performing.  Performance opportunities vary between in-studio performances and stage performances with our older theater students.--}}
 {{--                </p>--}}
 {{--            </div>--}}
-            <div class="my-5">
-                <h4 class="text-uppercase">KIDS (Ages 5-8)</h4>
-                <p class="big-font">
-                    Our Kids class introduces our youngest theater students to the world of theater focusing on fun, imagination, and structured learning with an emphasis on ensemble performing. Fall and Spring Mini Sessions are available this season with a parent observation on the last day of class.                </p>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
+                <div class="my-5">
+                    <h4 class="text-uppercase">KIDS (Ages 5-8)</h4>
+                    <p class="big-font">
+                        Our Kids class introduces our youngest theater students to the world of theater focusing on fun, imagination, and structured learning with an emphasis on ensemble performing. Fall and Spring Mini Sessions are available this season with a parent observation on the last day of class.                </p>
+                </div>
+                <div class="my-5">
+                    <h4 class="text-uppercase">JUNIORS (Ages 9 and up)</h4>
+                    <p class="big-font">
+                        Our “Juniors” program offers the older theater student more intense work in staging, audition preparation, costuming, and make-up, while strengthening and enhancing each student’s skills in acting, vocal, and movement.  Performance opportunities include stage performances and seasonal performances with Expressions’ dancers.
+                    </p>
+                </div>
             </div>
-            <div class="my-5">
-                <h4 class="text-uppercase">JUNIORS (Ages 9 and up)</h4>
-                <p class="big-font">
-                    Our “Juniors” program offers the older theater student more intense work in staging, audition preparation, costuming, and make-up, while strengthening and enhancing each student’s skills in acting, vocal, and movement.  Performance opportunities include stage performances and seasonal performances with Expressions’ dancers.
+            <div>
+                <p class="big-font text-center">
+                    This Spring we'll bring a vibrant underwater world to life in <strong>Finding Nemo JR.</strong>! This beloved story is full of family, friendship, and adventure, and will be sure to entertain an audience of all ages!
                 </p>
+                <div class="d-flex justify-content-center">
+                    <img src="/images/mt-nemo.png" alt="nemo flyer" class="img-fluid">
+                </div>
+                <p class="big-font text-center mt-3">
+                    Class is held on Mondays from 6:15-7:45PM beginning January 8th. The session concludes with a stage production in May (date/time TBD).
+                    <br><br>
+                    Auditions - Monday, January 8th from 6:15-7:45PM
+                </p>
+                <div class="d-flex justify-content-center my-3">
+                    <div class="btn btn-primary btn-lg">
+                        <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
+                    </div>
+                </div>
             </div>
 
         </div>
