@@ -73,16 +73,16 @@ Route::get('/mini-sessions', function () {
     return view('mini-sessions');
 });
 
-Route::get('/fall', function () {
-    return view('fall');
-});
+//Route::get('/fall', function () {
+//    return view('fall');
+//});
 //Route::get('/summer', function () {
 //    return view('summer');
 //});
 
-//Route::get('/spring', function () {
-//    return view('spring');
-//});
+Route::get('/spring', function () {
+    return view('spring');
+});
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
