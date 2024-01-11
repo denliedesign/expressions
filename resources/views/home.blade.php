@@ -7,6 +7,27 @@
 
     <!------------------------MODAL------------------------->
 
+    <!-- Modal -->
+    <div class="modal fade" id="summerModal" tabindex="-1" aria-labelledby="summerModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="summerModalLabel">FREE DANCE DAYS are BACK!!!</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="/images/free-dance-days.png" alt="girl in dance studio smiling" class="img-fluid">
+                    <p class="text-center my-2">
+                        Join us the week of January 22-25 and sample a variety of classes for ages 4 and up! Space will be limited, so we ask that you complete the form below to reserve your child's spot! Come and see what EDT is all about!
+                    </p>
+                </div>
+                <div class="modal-footer d-flex justify-content-center">
+                    <a href="https://forms.gle/7Cx5H1YvfQ3mUJZc9" class="btn btn-primary" target="_blank">Reserve Your Spot!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
 {{--    <div class="d-flex justify-content-center">--}}
 {{--        <div class="alert alert-success alert-dismissible fade show" role="alert" style="width: 75%;">--}}
 {{--            <img src="/images/Rudolph.png" alt="rudolph" style="width: 100%; height: auto;">--}}
