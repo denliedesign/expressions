@@ -7,75 +7,17 @@
         <div class="container my-md-5 py-md-5">
             <h2 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h2>
 
-            <div>
-                <div class="d-flex justify-content-center">
-                    <img src="/images/mini-sessions-aladdin.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
-                </div>
-                <h2 class="text-center text-uppercase">&mdash; Aladdin Musical Theater Mini Session &mdash;</h2>
-                <p class="mt-3 text-center">
-                    Young actors ages 5-8, this one's for you! Join us on a magic carpet ride with Aladdin, our 6-week mini session for kids who love to sing, act, and dance!!
-                    <br><br>
-                    January 8 - February 12
-                    <br>Mondays 5:30-6:15PM
-                    <br>Ages 5-8
-                    <br><br>
-                    Tuition: $149
-                    <br><br>
-                    Attire: Comfortable clothing and sneakers.
-                    <br><br>
-                    Parents may observe the last week of class!
-                </p>
-{{--                <p class="mt-3 text-center">--}}
-{{--                    Young actors, this one's for you! Join us on a magic carpet ride with Aladdin, our 6-week mini session for kids who love to sing, act, and dance!!!--}}
-{{--                    <br><br>--}}
-{{--                    Aladdin Mini Session for Ages 5-8--}}
-{{--                    <br>--}}
-{{--                    Mondays 5:30-6:15PM // January 8 - February 12--}}
-{{--                    <br><br>--}}
-{{--                    Please wear comfortable clothing and sneakers. Parent observation on the last day of class.--}}
-{{--                </p>--}}
-                <div class="d-flex justify-content-center my-4">
-                    <div class="btn btn-primary btn-lg">
-                        <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
-                    </div>
-                </div>
-                <hr class="my-3">
-            </div>
+            <x-camp image="tutus-and-ties.png" title="Tutus and Ties" info="Tutus and Ties is the perfect transition from our 'mommy and me' style class to an independent class without the help of a caregiver. If your tot is at least two years old and does not have trouble separating from you, then they are ready for this next step at Expressions!
+<br><br>
+            February 28 - March 27
+            <br>Ages 2-3
+            <br>Tuition: $125
+            <br>Attire: Dancewear and ballet shoes are encouraged, but not required to essential to enjoy the class. Please dress your child in play clothes and sneakers as an alternative." />
+
+{{--            <x-camp image="" title="" info="" />--}}
 
             <div class="d-flex justify-content-center">
-                <img src="/images/Trolls.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
-            </div>
-            <h2 class="text-center text-uppercase">&mdash; Trolls Dance Party &mdash;</h2>
-            <p class="mt-3 text-center">
-                Let's have a dance party! Dancers will enjoy this fun dance class inspired by the music from the latest Trolls movie! No experience is necessary.
-                <br><br>
-                January 9 - February 13
-                <br>Tuesdays 6:30-7:15PM
-                <br>Ages 3-5
-                <br><br>
-                January 11 - February 15
-                <br>Thursdays 6:45-7:30PM
-                <br>Ages 5-7
-                <br><br>
-                Tuition: $149
-                <br><br>
-                Attire: Dancers can wear a leotard and tights or comfortable clothing/athletic attire. Ballet shoes or socks may be worn.
-                <br><br>
-                Parents may observe the last week of class!
-            </p>
-            <div class="d-flex justify-content-center my-4">
-                <div class="btn btn-primary btn-lg">
-                    <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
-                </div>
-            </div>
-            <hr class="my-3">
-            <!-- -->
-            <!-- -->
-            <!-- -->
-            <!-- -->
-
-            <div class="d-flex justify-content-center">
-                <img src="/images/Squishmallows.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
+                <img src="/images/squishmallows-2.png" alt="mini camp" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
             </div>
             <h2 class="text-center text-uppercase">&mdash; Squishmallow Jam &mdash;</h2>
             <p class="mt-3 text-center">
@@ -84,13 +26,9 @@
                 February 20 - March 26
                 <br>Tuesdays 6:30-7:15PM
                 <br>Ages 3-5
-                <br><br>
-                February 22 - March 28
-                <br>Thursdays 6:45-7:30PM
-                <br>Ages 5-7
-                <br><br>
+                <br>
                 Tuition: $149
-                <br><br>
+                <br>
                 Attire: Dancers can wear a leotard and tights or comfortable clothing/athletic attire. Ballet shoes or socks may be worn.
                 <br><br>
                 Parents may observe the last week of class!
@@ -107,23 +45,17 @@
             <!-- -->
 
             <div class="d-flex justify-content-center">
-                <img src="/images/broadway-babies-3.png" alt="baby in broadway outfit" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
+                <img src="/images/broadway-babies-4.png" alt="baby in broadway outfit" class="img-fluid my-3 rounded" style="max-width: 525px; width: 100%; height: auto;">
             </div>
             <h2 class="text-center text-uppercase">&mdash; Broadway Babies Mini Session &mdash;</h2>
             <p class="mt-3 text-center">
                 Broadway Babies is a beginning dance class for little ones and a caregiver! Get ready to move and groove in this fun, energetic class!
-                <br><br>
-                <strong>Session 1:</strong>
-                <br>January 9 - February 13
-                <br>Thursdays 5:15-6:00PM or 6:00-6:45PM
-                <br><br>
-                <strong>Session 2:</strong>
+                <br>
                 <br>February 22 - March 28
-                <br>Thursdays 5:15-6:00PM to 6:00-6:45PM
-
-                <br><br>Ages 1-2
-                <br><br>Tuition: $149
-                <br><br>Attire: Dancers can wear a leotard and tights or comfortable attire. Ballet shoes, bare feet, socks, or sneakers are also approved.
+                <br>Thursdays 6:00-6:45PM
+                <br>Ages 1-2
+                <br>Tuition: $149
+                <br>Attire: Dancers can wear a leotard and tights or comfortable attire. Ballet shoes, bare feet, socks, or sneakers are also approved.
                 <br><br>Parents may observe the last week of class!
             </p>
             <div class="d-flex justify-content-center my-4">
