@@ -7,6 +7,17 @@
         <div class="container my-md-5 py-md-5">
             <h2 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h2>
 
+            <x-camp image="swift.png" title="The Shake It Off Swiftie Session" info="Dance like nobody's watching as we groove to Taylor's iconic tunes, learning a new dance each day! Shake it off, show off your moves, and become a fearless dancer... just like Taylor herself!
+<br><br>
+4-week Mini Session
+<br>March 7 - 28
+<br>Thursdays 6:45-7:30PM
+<br>Ages 8-11
+<br>Tuition: $99
+<br><br>
+No dance experience is necessary! Wear your Swiftie best. Each week we will groove to one of Taylor's songs like we are in our own music video! So fun!!
+A $50 deposit is required to hold your spot upon registering. The balance will be due on March 1st." />
+
             <x-camp image="tutus-and-ties.png" title="Tutus and Ties" info="Tutus and Ties is the perfect transition from our 'mommy and me' style class to an independent class without the help of a caregiver. If your tot is at least two years old and does not have trouble separating from you, then they are ready for this next step at Expressions!
 <br><br>
             February 28 - March 27
@@ -14,6 +25,7 @@
             <br>Tuition: $125
             <br>Attire: Dancewear and ballet shoes are encouraged, but not required to essential to enjoy the class. Please dress your child in play clothes and sneakers as an alternative." />
 
+{{--            <x-camp image="" title="" info="" />--}}
 {{--            <x-camp image="" title="" info="" />--}}
 
             <div class="d-flex justify-content-center">
