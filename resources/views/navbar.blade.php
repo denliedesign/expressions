@@ -24,7 +24,8 @@
                         </ul>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/spring">Spring</a>
+{{--                        <a class="nav-link" href="/spring">Spring</a>--}}
+                        <a class="nav-link" href="/summer">Summer</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/mini-sessions">Mini Sessions</a>
