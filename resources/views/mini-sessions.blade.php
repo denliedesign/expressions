@@ -20,10 +20,10 @@ Come join us! Enroll TODAY in our 4-week Mini Session for kids ages 4-7. No danc
             <br>Tuition: $149
             <br>Attire: Dancewear and ballet shoes are encouraged, but not required to essential to enjoy the class. Please dress your child in play clothes and sneakers as an alternative." />
 
-            <x-camp image="broadway-babies-april.png" title="Broadway Babies Mini Session" info="Broadway Babies is a beginning dance class for little ones and a caregiver! Get ready to move and groove in this fun, energetic class!
+            <x-camp image="broadway-babies-4-12-24.png" title="Broadway Babies Mini Session" info="Broadway Babies is a beginning dance class for little ones and a caregiver! Get ready to move and groove in this fun, energetic class!
                 <br>
                 <br>April 11 - May 16
-                <br>Thursdays 6:00-6:45PM
+                <br>Thursdays 5:15-6:00PM
                 <br>Ages 1-2
                 <br>Tuition: $149
                 <br>Attire: Dancers can wear a leotard and tights or comfortable attire. Ballet shoes, bare feet, socks, or sneakers are also approved.
