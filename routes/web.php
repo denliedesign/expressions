@@ -69,8 +69,9 @@ Route::get('/news', function () {
     return view('news');
 });
 
-Route::get('/mini-sessions', function () {
-    return view('mini-sessions');
+//previously mini-sessions
+Route::get('/musical-theater-camps', function () {
+    return view('musical-theater-camps');
 });
 
 //Route::get('/fall', function () {
