@@ -8,7 +8,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0 big-font">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="font-size: 1.1em;">
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/">Home</a>
                     </li>
@@ -28,7 +28,7 @@
                         <a class="nav-link" href="/summer">Summer</a>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/mini-sessions">Mini Sessions</a>
+                        <a class="nav-link" href="/mini-sessions">Musical Theater Camps</a>
                     </li>
                     <li class="nav-item mx-3 dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
