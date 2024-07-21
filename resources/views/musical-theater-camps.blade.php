@@ -5,26 +5,37 @@
 
     <div class="py-5">
         <div class="container my-md-5 py-md-5">
-            <h1 class="text-center text-uppercase">&mdash; Musical Theater Camps &mdash;</h1>
+            <h1 class="text-center text-uppercase">&mdash; Musical Theater &mdash;</h1>
 {{--            <h1 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h1>--}}
 
-            <div class="d-flex justify-content-center">
-                <div>
-                    <img src="/images/mt-camp-1.jpg" alt="mt camps" class="img-fluid">
-                    <div class="d-flex justify-content-center my-4">
-                        <div class="btn btn-primary btn-lg">
-                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <div>--}}
+{{--                    <img src="/images/mt-camp-1.jpg" alt="mt camps" class="img-fluid">--}}
+{{--                    <div class="d-flex justify-content-center my-4">--}}
+{{--                        <div class="btn btn-primary btn-lg">--}}
+{{--                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <div class="d-flex justify-content-center mt-4">
                 <div>
-                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">
+                    <p>
+                        Frozen Jr. Musical Theater Class and Winter Performance
+                        <br>Ages: 8 and up
+                        <br>Class Meets: Thursdays 6:30-8:00PM beginning September 12
+                        <br>Tech Weeks: December 2-5 and December 9-12
+                        <br>Stage Rehearsal & Performances: December 12-14
+                        <br>
+                        <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:30-8:00PM
+                        <br>* If your child prefers to be a part of the ensemble and chorus they do not need to attend auditions
+                        <br>* Links to audition materials will be sent once child is registered.
+                    </p>
+{{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
                     <div class="d-flex justify-content-center my-4">
                         <div class="btn btn-primary btn-lg">
-                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
+                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register</a>
                         </div>
                     </div>
                 </div>

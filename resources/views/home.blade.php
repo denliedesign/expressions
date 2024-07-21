@@ -77,7 +77,7 @@
             </p>
             <div class="d-flex justify-content-center">
                 <div class="btn btn-primary btn-lg">
-                    <a class="text-white text-decoration-none" href="/spring">Find Your Class</a>
+                    <a class="text-white text-decoration-none" href="/images/fall-2024-2025.pdf" target="_blank">Find Your Class</a>
                 </div>
             </div>
         </div>

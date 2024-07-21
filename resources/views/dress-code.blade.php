@@ -9,6 +9,11 @@
     <div class="my-5 py-md-5">
         <div class="container my-md-5 py-md-5">
             <h2 class="text-center text-uppercase">&mdash; Dress Code &mdash;</h2>
+            <div class="d-flex justify-content-center my-4">
+                <div class="btn btn-primary btn-lg">
+                    <a class="text-white text-decoration-none" href="/images/dress-code-2024-2025.pdf" target="_blank">Dress Code PDF</a>
+                </div>
+            </div>
             <div class="my-5">
                 <h4 class="text-uppercase">BOUNCIN’ BABES</h4>
                 <p class="big-font">

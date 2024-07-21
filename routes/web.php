@@ -74,9 +74,9 @@ Route::get('/musical-theater-camps', function () {
     return view('musical-theater-camps');
 });
 
-//Route::get('/fall', function () {
-//    return view('fall');
-//});
+Route::get('/fall', function () {
+    return view('fall');
+});
 Route::get('/summer', function () {
     return view('summer');
 });
