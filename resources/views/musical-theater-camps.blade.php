@@ -19,23 +19,51 @@
 {{--                </div>--}}
 {{--            </div>--}}
 
-            <div class="d-flex justify-content-center mt-4">
-                <div>
-                    <p>
-                        Frozen Jr. Musical Theater Class and Winter Performance
-                        <br>Ages: 8 and up
-                        <br>Class Meets: Thursdays 6:30-8:00PM beginning September 12
-                        <br>Tech Weeks: December 2-5 and December 9-12
-                        <br>Stage Rehearsal & Performances: December 12-14
-                        <br>
-                        <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:30-8:00PM
-                        <br>* If your child prefers to be a part of the ensemble and chorus they do not need to attend auditions
-                        <br>* Links to audition materials will be sent once child is registered.
-                    </p>
-{{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
-                    <div class="d-flex justify-content-center my-4">
-                        <div class="btn btn-primary btn-lg">
-                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register</a>
+            <div class="row mt-4">
+                <div class="col-md my-3 d-flex justify-content-center">
+                    <img src="/images/frozen-jr.png" alt="frozen picture" class="img-fluid rounded shadow">
+                </div>
+                <div class="col-md my-3 d-flex align-items-center justify-content-center">
+                   <div>
+                       <p>
+                           Frozen Jr. Musical Theater Class and Winter Performance
+                           <br>Ages: 8 and up
+                           <br>Class Meets: Thursdays 6:30-8:00PM beginning September 12
+                           <br>Tech Weeks: December 2-5 and December 9-12
+                           <br>Stage Rehearsal & Performances: December 12-14
+                           <br>
+                           <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:30-8:00PM
+                           <br>* If your child prefers to be a part of the ensemble and chorus they do not need to attend auditions
+                           <br>* Links to audition materials will be sent once child is registered.
+                       </p>
+                       {{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
+                       <div class="my-4">
+                           <div class="btn btn-primary btn-lg">
+                               <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register</a>
+                           </div>
+                       </div>
+                   </div>
+                </div>
+            </div>
+
+            <div class="row mt-4">
+                <div class="col-md my-3 d-flex justify-content-center">
+                    <img src="/images/snoozy-snowflake.png" alt="frozen picture" class="img-fluid rounded shadow">
+                </div>
+                <div class="col-md my-3 d-flex align-items-center justify-content-center">
+                    <div>
+                        <p>
+                            Snoozy Snowflake Musical Theater Mini Session
+                            <br>Ages: 5-8
+                            <br>In this mini musical, Snoozy Snowflake is reluctant to fall in line with the tasks of the other snowflakes, which holds up the first snowfall of winter! With an easy-to-memorize rhyming script and songs, this show will be the perfect introduction to musical theater for young actors.
+                            <br>This 8-week session includes a performance at St. Henry High School the weekend of December 13-14.
+                            <br>Cost: $249 (includes costume & production fee)
+                        </p>
+                        {{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
+                        <div class="my-4">
+                            <div class="btn btn-primary btn-lg">
+                                <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register</a>
+                            </div>
                         </div>
                     </div>
                 </div>
