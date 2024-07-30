@@ -9,8 +9,8 @@
     <div class="my-5 py-md-5">
         <div class="container my-md-5 py-md-5">
             <h2 class="text-center text-uppercase">&mdash; Dress Code &mdash;</h2>
-            <img src="/images/dress-code-24-25a.jpg" alt="dress code" class="img-fluid">
-            <img src="/images/dress-code-24-25b.jpg" alt="dress code" class="img-fluid">
+            <img src="/images/24-25-dress-code-b1.jpg" alt="dress code" class="img-fluid">
+            <img src="/images/24-25-dress-code-b2.jpg" alt="dress code" class="img-fluid">
 {{--            <div class="d-flex justify-content-center my-4">--}}
 {{--                <div class="btn btn-primary btn-lg">--}}
 {{--                    <a class="text-white text-decoration-none" href="/images/dress-code-2024-2025.pdf" target="_blank">Dress Code PDF</a>--}}

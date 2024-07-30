@@ -27,8 +27,8 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="/images/fall-2024-2025.jpg" alt="fall class guide" class="img-fluid">
-                <img src="/images/fall-2024-2025b.jpg" alt="fall class guide" class="img-fluid">
+                <img src="/images/24-25-class-guide-b1.jpg" alt="fall class guide" class="img-fluid">
+                <img src="/images/24-25-class-guide-b2.jpg" alt="fall class guide" class="img-fluid">
 {{--                <a href="/images/23-fall.pdf" target="_blank">--}}
 {{--                    <img src="/images/23-fall-1.jpg" alt="fall flyer" class="img-fluid rounded">--}}
 {{--                </a>--}}
