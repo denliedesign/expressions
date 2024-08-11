@@ -28,11 +28,11 @@
                        <p>
                            Frozen Jr. Musical Theater Class and Winter Performance
                            <br>Ages: 8 and up
-                           <br>Class Meets: Thursdays 6:30-8:00PM beginning September 12
+                           <br>Class Meets: Thursdays 6:00-7:30PM beginning September 12
                            <br>Tech Weeks: December 2-5 and December 9-12
                            <br>Stage Rehearsal & Performances: December 12-14
                            <br>
-                           <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:30-8:00PM
+                           <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:00-7:30PM
                            <br>* If your child prefers to be a part of the ensemble and chorus they do not need to attend auditions
                            <br>* Links to audition materials will be sent once child is registered.
                        </p>

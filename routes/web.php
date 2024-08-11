@@ -74,12 +74,16 @@ Route::get('/musical-theater-camps', function () {
     return view('musical-theater-camps');
 });
 
+Route::get('/mini-sessions', function () {
+    return view('mini-sessions');
+});
+
 Route::get('/fall', function () {
     return view('fall');
 });
-Route::get('/summer', function () {
-    return view('summer');
-});
+//Route::get('/summer', function () {
+//    return view('summer');
+//});
 
 //Route::get('/spring', function () {
 //    return view('spring');

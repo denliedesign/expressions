@@ -51,9 +51,9 @@
             </div>
         </div>
 
-        <div class="d-flex justify-content-center mt-4">
-            <img src="/images/enrollment-fair.png" alt="" class="img-fluid">
-        </div>
+{{--        <div class="d-flex justify-content-center mt-4">--}}
+{{--            <img src="/images/enrollment-fair.png" alt="" class="img-fluid">--}}
+{{--        </div>--}}
 
 {{--        <video controls poster="/images/edt-fun.png" style="width: 100%;" class="rounded shadow">--}}
 {{--            <source src="" type="video/mp4">--}}
