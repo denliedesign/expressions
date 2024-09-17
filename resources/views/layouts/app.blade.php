@@ -12,6 +12,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lora&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
     </style>
 
     <!-- Styles -->

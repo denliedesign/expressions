@@ -25,9 +25,9 @@ Route::get('/expressions-dance-theatre-our-story', function () {
     return view('expressions-dance-theatre-our-story');
 });
 
-Route::get('/meet-our-faculty', function () {
-    return view('meet-our-faculty');
-});
+//Route::get('/meet-our-faculty', function () {
+//    return view('meet-our-faculty');
+//});
 
 Route::get('/certifications-and-recognition', function () {
     return view('certifications-and-recognition');

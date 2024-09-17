@@ -20,7 +20,7 @@ Broadway Babies is a beginning dance class for little ones and a caregiver! Get 
                 />
 
             <x-camp
-                image="session-2.png"
+                image="i-am-2.png"
                 title="Tutus and Ties Mini Session"
                 info='
 Tutus and Ties is the perfect transition from our "mommy and me" style class to an independent class without the help of a caregiver. If your tot is at least two years old and does not have trouble separating from you, then they are ready for this next step at Expressions!
@@ -34,16 +34,26 @@ Tutus and Ties is the perfect transition from our "mommy and me" style class to 
             />
 
             <x-camp
-                image="session-3.png"
-                title="Snoozy Snowflake Musical Theater Mini Session"
-                info="
-In this mini musical, Snoozy Snowflake is reluctant to fall in line with the tasks of the other snowflakes, which holds up the first snowfall of winter! With an easy-to-memorize rhyming script and songs, this show will be the perfect introduction to musical theater for young actors.
-<br>
-<br>This 8-week session includes a performance at St. Henry High School the weekend of December 13-14.
-<br>
-<br>Cost: $249 (includes costume & production fee)
-"
+            image="frozen-friends-24.png"
+            title="Frozen Friends Mini Session"
+            info="
+Get ready to dance and twirl with Frozen Friends! This Frozen-themed mini session is the perfect place to explore dance and creative movement. No commitment, no extra fees, just a lot of Frozen FUN!
+<br>Tuition: $159
+<br>$50 non-refundable deposit required
+<br>Attire: Dancewear and ballet shoes are encouraged!"
             />
+
+{{--            <x-camp--}}
+{{--                image="session-3.png"--}}
+{{--                title="Snoozy Snowflake Musical Theater Mini Session"--}}
+{{--                info="--}}
+{{--In this mini musical, Snoozy Snowflake is reluctant to fall in line with the tasks of the other snowflakes, which holds up the first snowfall of winter! With an easy-to-memorize rhyming script and songs, this show will be the perfect introduction to musical theater for young actors.--}}
+{{--<br>--}}
+{{--<br>This 8-week session includes a performance at St. Henry High School the weekend of December 13-14.--}}
+{{--<br>--}}
+{{--<br>Cost: $249 (includes costume & production fee)--}}
+{{--"--}}
+{{--            />--}}
 
         </div>
     </div>

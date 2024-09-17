@@ -1,5 +1,5 @@
-<section class="d-flex justify-content-center bg-primary">
-    <nav class="navbar navbar-expand-lg navbar-dark" style="z-index: 3;">
+<section class="d-flex justify-content-center">
+    <nav class="navbar navbar-expand-lg navbar-light" style="z-index: 3;">
         <div class="container-fluid">
             <a class="navbar-brand" href="/">
                 <img src="/images/edt-logo.png" alt="expressions logo" class="img-fluid" style="height: 100px; width: auto;">
@@ -18,7 +18,7 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Story</a></li>
-                            <li><a class="dropdown-item" href="/meet-our-faculty">Meet Our Faculty</a></li>
+{{--                            <li><a class="dropdown-item" href="/meet-our-faculty">Meet Our Faculty</a></li>--}}
                             <li><a class="dropdown-item" href="/certifications-and-recognition">Certifications & Recognition</a></li>
                             <li><a class="dropdown-item" href="/testimonials">Testimonials</a></li>
                         </ul>
