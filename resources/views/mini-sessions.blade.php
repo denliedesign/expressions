@@ -7,13 +7,24 @@
         <div class="container my-md-5 py-md-5">
                         <h1 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h1>
             <x-camp
-            image="mini-jingle-jam.png"
-            title="Jingle Jam Mini Session"
-            info="Join us for some holiday fun!
-            <br>Tuition: $139
-<br>$50 non-refundable deposit required
-<br>Attire: Dancewear and ballet shoes are encouraged, but not required to enjoy the class. Please dress your child in play clothes and sneakers as an alternative."
-            />
+                image="moana-mini-session.png"
+                title="Moana Mini Session"
+                info="
+Don’t miss out on this amazing adventure in the New Year! Our Moana dance session is all about fun, creativity, and exploring movement, all inspired by the popular movie!
+<br>🌺 low commitment
+<br>🌺 no extra fees
+<br>🌺 fun guaranteed!
+<br>🌺 $159 + tax
+<br>Enrollment starts now!
+" />
+{{--            <x-camp--}}
+{{--            image="mini-jingle-jam.png"--}}
+{{--            title="Jingle Jam Mini Session"--}}
+{{--            info="Join us for some holiday fun!--}}
+{{--            <br>Tuition: $139--}}
+{{--<br>$50 non-refundable deposit required--}}
+{{--<br>Attire: Dancewear and ballet shoes are encouraged, but not required to enjoy the class. Please dress your child in play clothes and sneakers as an alternative."--}}
+{{--            />--}}
 
 {{--            <x-camp--}}
 {{--                image="session-1.png"--}}
