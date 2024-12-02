@@ -17,6 +17,16 @@ Don’t miss out on this amazing adventure in the New Year! Our Moana dance sess
 <br>🌺 $159 + tax
 <br>Enrollment starts now!
 " />
+            <x-camp
+                image="little-feet-mini-session.png"
+                title="Little Feet"
+                info="
+Join us for a new dance mini session in the New Year for littles under age 4... Little Feet Love the Beat!
+<br>Two class options are available on Saturday mornings: one for ages 1-2 that will require a caregiver to help them during class, and one for independent toddlers up to age 4!
+<br>
+<br>Dance attire is encouraged, but not required!
+<br>Cost: $139 plus tax
+" />
 {{--            <x-camp--}}
 {{--            image="mini-jingle-jam.png"--}}
 {{--            title="Jingle Jam Mini Session"--}}
