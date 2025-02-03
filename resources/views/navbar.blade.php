@@ -61,7 +61,7 @@
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/#ask-us-anything">Contact Us</a>
                     </li>
-                    <li class="nav-item mx-3 text-center rounded shadow" id="enroll-button">
+                    <li class="nav-item mx-3 text-center rounded shadow" id="enroll-button" style="background-color: #e11e24;">
                         <a class="nav-link text-white" href="https://portal.akadadance.com/auth?schoolId=177" target="_blank">Enroll Now!</a>
                     </li>
 {{--                    <li class="nav-item mx-3 dropdown">--}}
