@@ -81,9 +81,9 @@ Route::get('/mini-sessions', function () {
 Route::get('/fall', function () {
     return view('fall');
 });
-//Route::get('/summer', function () {
-//    return view('summer');
-//});
+Route::get('/summer', function () {
+    return view('summer');
+});
 
 //Route::get('/spring', function () {
 //    return view('spring');

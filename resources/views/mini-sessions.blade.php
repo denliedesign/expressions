@@ -6,27 +6,57 @@
     <div class="py-5">
         <div class="container my-md-5 py-md-5">
                         <h1 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h1>
+{{--            <x-camp--}}
+{{--                image=""--}}
+{{--                title=""--}}
+{{--                info=""--}}
+{{--            />--}}
             <x-camp
-                image="moana-mini-session.png"
-                title="Moana Mini Session"
+                image="mini-session-bluey.png"
+                title="Bounce & Bop with Bluey"
                 info="
-Don’t miss out on this amazing adventure in the New Year! Our Moana dance session is all about fun, creativity, and exploring movement, all inspired by the popular movie!
-<br>🌺 low commitment
-<br>🌺 no extra fees
-<br>🌺 fun guaranteed!
-<br>🌺 $159 + tax
-<br>Enrollment starts now!
-" />
+<br>🐾 Get ready to BoUnCe and BoP with BLUEY!! 🐾
+<br>Registration is now open for our newest session for little ones under the age of 4!
+<br>Two class options are available on Saturday mornings beginning February 22: Ages 1-2 will require a caregiver to help their little one during the class and Ages 2.5-4 is for independent kiddos ready to enjoy the class on their own!
+<br>🐾 6 weeks - $159
+<br>🐾 No added fees
+<br>🐾 Fun guaranteed!
+<br>🐾 Dancewear is encouraged, but not required! Comfy clothes & sneakers are acceptable too 🙂
+"
+            />
             <x-camp
-                image="little-feet-mini-session.png"
-                title="Little Feet"
+                image="mini-session-wicked.jpg"
+                title="Dancing Through Life"
                 info="
-Join us for a new dance mini session in the New Year for littles under age 4... Little Feet Love the Beat!
-<br>Two class options are available on Saturday mornings: one for ages 1-2 that will require a caregiver to help them during class, and one for independent toddlers up to age 4!
+🎶 Ready to Defy Gravity? ✨ Our Dancing Through Life mini session is the ultimate Wicked-themed adventure for ages 4-9! 💚
 <br>
-<br>Dance attire is encouraged, but not required!
-<br>Cost: $139 plus tax
-" />
+<br>Join us every Tuesday, Feb 25 - April 1, from 6:15-7:15 PM, for a magical hour of singing, dancing, acting, and crafting inspired by the world of Oz! 🌈
+<br>
+<br>Don't miss this Oz-some opportunity to spark creativity and have a blast! 🌟
+<br>Just $169
+"
+            />
+{{--            <x-camp--}}
+{{--                image="moana-mini-session.png"--}}
+{{--                title="Moana Mini Session"--}}
+{{--                info="--}}
+{{--Don’t miss out on this amazing adventure in the New Year! Our Moana dance session is all about fun, creativity, and exploring movement, all inspired by the popular movie!--}}
+{{--<br>🌺 low commitment--}}
+{{--<br>🌺 no extra fees--}}
+{{--<br>🌺 fun guaranteed!--}}
+{{--<br>🌺 $159 + tax--}}
+{{--<br>Enrollment starts now!--}}
+{{--" />--}}
+{{--            <x-camp--}}
+{{--                image="little-feet-mini-session.png"--}}
+{{--                title="Little Feet"--}}
+{{--                info="--}}
+{{--Join us for a new dance mini session in the New Year for littles under age 4... Little Feet Love the Beat!--}}
+{{--<br>Two class options are available on Saturday mornings: one for ages 1-2 that will require a caregiver to help them during class, and one for independent toddlers up to age 4!--}}
+{{--<br>--}}
+{{--<br>Dance attire is encouraged, but not required!--}}
+{{--<br>Cost: $139 plus tax--}}
+{{--" />--}}
 {{--            <x-camp--}}
 {{--            image="mini-jingle-jam.png"--}}
 {{--            title="Jingle Jam Mini Session"--}}

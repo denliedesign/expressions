@@ -29,7 +29,8 @@
                         <a class="nav-link" href="/mini-sessions">Mini Sessions</a>
                     </li>
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/fall">Fall</a>
+                        <a class="nav-link" href="/summer">Summer</a>
+{{--                        <a class="nav-link" href="/fall">Fall</a>--}}
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/musical-theater-camps">Musical Theater</a>
@@ -60,15 +61,18 @@
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/#ask-us-anything">Contact Us</a>
                     </li>
-                    <li class="nav-item mx-3 dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Login
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="https://app.akadadance.com/customer/login?schoolId=AK235599J" target="_blank">General Login</a></li>
-                            <li><a class="dropdown-item" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">New Account</a></li>
-                        </ul>
+                    <li class="nav-item mx-3 text-center rounded shadow" id="enroll-button">
+                        <a class="nav-link text-white" href="https://portal.akadadance.com/auth?schoolId=177" target="_blank">Enroll Now!</a>
                     </li>
+{{--                    <li class="nav-item mx-3 dropdown">--}}
+{{--                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">--}}
+{{--                            Login--}}
+{{--                        </a>--}}
+{{--                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">--}}
+{{--                            <li><a class="dropdown-item" href="https://app.akadadance.com/customer/login?schoolId=AK235599J" target="_blank">General Login</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">New Account</a></li>--}}
+{{--                        </ul>--}}
+{{--                    </li>--}}
                 </ul>
             </div>
         </div>
