@@ -15,7 +15,7 @@
 {{--                </div>--}}
             </div>
             <div>
-                <p class="text-center">Stay tuned for the release of our Summer Session Schedule!</p>
+{{--                <p class="text-center">Stay tuned for the release of our Summer Session Schedule!</p>--}}
 {{--                <img src="/images/summer-24-1.jpg" alt="summer flyer" class="img-fluid">--}}
 {{--                <div class="row row-cols-2">--}}
 {{--                    <img src="/images/all-stars-clinic.png" alt="all stars clinic" class="img-fluid">--}}
@@ -24,7 +24,11 @@
 {{--                <img src="/images/summer-24-2.jpg" alt="summer flyer" class="img-fluid">--}}
             </div>
             <div class="d-flex justify-content-center my-4">
-                <img src="/images/summer-2025.png" class="img-fluid" alt="">
+                <div>
+                    <img src="/images/summer-2025.png" class="img-fluid" alt="">
+                    <img src="/images/summer-1.png" class="img-fluid" alt="">
+                    <img src="/images/summer-2.png" class="img-fluid" alt="">
+                </div>
 {{--                <div class="btn btn-primary btn-lg me-4">--}}
 {{--                    <a class="text-white text-decoration-none" href="/images/summer-24.pdf" target="_blank">View PDF</a>--}}
 {{--                </div>--}}
