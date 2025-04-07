@@ -6,36 +6,52 @@
     <div class="py-5">
         <div class="container my-md-5 py-md-5">
                         <h1 class="text-center text-uppercase">&mdash; Mini Sessions &mdash;</h1>
+            {{--            <x-camp--}}
+            {{--                image=""--}}
+            {{--                title=""--}}
+            {{--                info=""--}}
+            {{--            />--}}
+            <x-camp
+                image="2025-mini-minions.jpg"
+                title="Minion Mania"
+                info="
+Calling All Minions! Get ready to dance, jump, and groove at MINION MANIA! Join us for a fun-filled hip-hop adventure featuring:
+<br>✨ High-energy Hip Hop Moves
+<br>🎯 Action-packed Obstacle Courses
+<br>💡 Epic Glow Party Fun
+<br>Spots are filling up fast! Sign up today for just $129! Let's move it like a Minion!
+"
+            />
+            <x-camp
+                image="2025-mini-bees.png"
+                title="Busy Bees"
+                info="Our Busy Bees Mini Session is for young children who are ready to explore a creative movement class independently! We can't wait to see the kiddos buzzing around and having a great time!"
+            />
 {{--            <x-camp--}}
-{{--                image=""--}}
-{{--                title=""--}}
-{{--                info=""--}}
+{{--                image="mini-session-bluey.png"--}}
+{{--                title="Bounce & Bop with Bluey"--}}
+{{--                info="--}}
+{{--<br>🐾 Get ready to BoUnCe and BoP with BLUEY!! 🐾--}}
+{{--<br>Registration is now open for our newest session for little ones under the age of 4!--}}
+{{--<br>Two class options are available on Saturday mornings beginning February 22: Ages 1-2 will require a caregiver to help their little one during the class and Ages 2.5-4 is for independent kiddos ready to enjoy the class on their own!--}}
+{{--<br>🐾 6 weeks - $159--}}
+{{--<br>🐾 No added fees--}}
+{{--<br>🐾 Fun guaranteed!--}}
+{{--<br>🐾 Dancewear is encouraged, but not required! Comfy clothes & sneakers are acceptable too 🙂--}}
+{{--"--}}
 {{--            />--}}
-            <x-camp
-                image="mini-session-bluey.png"
-                title="Bounce & Bop with Bluey"
-                info="
-<br>🐾 Get ready to BoUnCe and BoP with BLUEY!! 🐾
-<br>Registration is now open for our newest session for little ones under the age of 4!
-<br>Two class options are available on Saturday mornings beginning February 22: Ages 1-2 will require a caregiver to help their little one during the class and Ages 2.5-4 is for independent kiddos ready to enjoy the class on their own!
-<br>🐾 6 weeks - $159
-<br>🐾 No added fees
-<br>🐾 Fun guaranteed!
-<br>🐾 Dancewear is encouraged, but not required! Comfy clothes & sneakers are acceptable too 🙂
-"
-            />
-            <x-camp
-                image="mini-session-wicked.jpg"
-                title="Dancing Through Life"
-                info="
-🎶 Ready to Defy Gravity? ✨ Our Dancing Through Life mini session is the ultimate Wicked-themed adventure for ages 4-9! 💚
-<br>
-<br>Join us every Tuesday, Feb 25 - April 1, from 6:15-7:15 PM, for a magical hour of singing, dancing, acting, and crafting inspired by the world of Oz! 🌈
-<br>
-<br>Don't miss this Oz-some opportunity to spark creativity and have a blast! 🌟
-<br>Just $169
-"
-            />
+{{--            <x-camp--}}
+{{--                image="mini-session-wicked.jpg"--}}
+{{--                title="Dancing Through Life"--}}
+{{--                info="--}}
+{{--🎶 Ready to Defy Gravity? ✨ Our Dancing Through Life mini session is the ultimate Wicked-themed adventure for ages 4-9! 💚--}}
+{{--<br>--}}
+{{--<br>Join us every Tuesday, Feb 25 - April 1, from 6:15-7:15 PM, for a magical hour of singing, dancing, acting, and crafting inspired by the world of Oz! 🌈--}}
+{{--<br>--}}
+{{--<br>Don't miss this Oz-some opportunity to spark creativity and have a blast! 🌟--}}
+{{--<br>Just $169--}}
+{{--"--}}
+{{--            />--}}
 {{--            <x-camp--}}
 {{--                image="moana-mini-session.png"--}}
 {{--                title="Moana Mini Session"--}}

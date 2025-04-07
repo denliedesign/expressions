@@ -21,14 +21,16 @@
 
             <div class="row mt-4">
                 <div class="col-md my-3 d-flex justify-content-center">
-                    <img src="/images/a-frozen-holiday.png" alt="frozen picture" class="img-fluid rounded shadow">
+                    <img src="/images/behind-the-curtain.png" alt="frozen picture" class="img-fluid rounded shadow">
                 </div>
                 <div class="col-md my-3 d-flex align-items-center justify-content-center">
                    <div>
                        <p>
-                           You're Invited to our Winter Show... A Frozen Holiday!
-                           <br><br>
-                           Our Musical Theater class is now closed, but you're invited to attend our performances the weekend of December 12-14th at St. Henry District High School. Performance times will be announced at a later date. Check back soon for updates!
+                           Get ready to take center stage this summer at our one-week Broadway camp for ages 9 & up! 🌟 Whether you love singing, dancing, acting, this is your chance to train like a true performer!
+                           <br>🎤 Work with incredible theatre professionals, including the amazing Catherine Keen from Keen Voice Studio and more!
+                           <br>💃 Learn Broadway-style choreography, vocal techniques, and storytelling skills!
+                           <br>🎭 Wrap up the week with a showcase performance for family and friends!
+                           <br>Spots are limited—register now and step into the spotlight! 🌟
                        </p>
 {{--                       <p>--}}
 {{--                           Frozen Jr. Musical Theater Class and Winter Performance--}}
