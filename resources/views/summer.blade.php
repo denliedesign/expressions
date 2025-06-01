@@ -25,12 +25,11 @@
             </div>
             <div class="d-flex justify-content-center my-4">
                 <div>
-                    <img src="/images/2025-summer-1.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
-                    <img src="/images/2025-summer-2.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
-                    <img src="/images/2025-summer-3.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
-                    <img src="/images/2025-summer-4.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
-                    <img src="/images/2025-summer-5.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
-                    <img src="/images/2025-summer-6.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
+                    <img src="/images/summer-1-06-01-25.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
+                    <img src="/images/summer-2-06-01-25.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
+                    <img src="/images/summer-3-06-01-25.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
+                    <img src="/images/summer-4-06-01-25.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
+                    <img src="/images/summer-5-06-01-25.jpg" class="img-fluid m-4 shadow rounded" alt="summer classes">
 {{--                    <img src="/images/summer-2025.png" class="img-fluid" alt="">--}}
 {{--                    <img src="/images/summer-1.png" class="img-fluid" alt="">--}}
 {{--                    <img src="/images/summer-2.png" class="img-fluid" alt="">--}}
