@@ -19,39 +19,24 @@
 {{--                </div>--}}
 {{--            </div>--}}
 
-            <div class="row mt-4">
-                <div class="col-md my-3 d-flex justify-content-center">
-                    <img src="/images/behind-the-curtain.png" alt="frozen picture" class="img-fluid rounded shadow">
-                </div>
-                <div class="col-md my-3 d-flex align-items-center justify-content-center">
-                   <div>
-                       <p>
-                           Get ready to take center stage this summer at our one-week Broadway camp for ages 9 & up! 🌟 Whether you love singing, dancing, acting, this is your chance to train like a true performer!
-                           <br>🎤 Work with incredible theatre professionals, including the amazing Catherine Keen from Keen Voice Studio and more!
-                           <br>💃 Learn Broadway-style choreography, vocal techniques, and storytelling skills!
-                           <br>🎭 Wrap up the week with a showcase performance for family and friends!
-                           <br>Spots are limited—register now and step into the spotlight! 🌟
-                       </p>
-{{--                       <p>--}}
-{{--                           Frozen Jr. Musical Theater Class and Winter Performance--}}
-{{--                           <br>Ages: 8 and up--}}
-{{--                           <br>Class Meets: Thursdays 6:00-7:30PM beginning September 12--}}
-{{--                           <br>Tech Weeks: December 2-5 and December 9-12--}}
-{{--                           <br>Stage Rehearsal & Performances: December 12-14--}}
-{{--                           <br>--}}
-{{--                           <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:00-7:30PM--}}
-{{--                           <br>* If your child prefers to be a part of the ensemble and chorus they do not need to attend auditions--}}
-{{--                           <br>* Links to audition materials will be sent once child is registered.--}}
-{{--                       </p>--}}
-                       {{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
-                       <div class="my-4">
-                           <div class="btn btn-primary btn-lg">
-                               <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register</a>
-                           </div>
-                       </div>
-                   </div>
-                </div>
-            </div>
+<div class="row">
+    <div class="col-md my-3">
+        <img src="/images/matilda.png" class="img-fluid" alt="">
+    </div>
+    <div class="col-md my-3">
+        <p>
+            We are excited to announce that our Fall Musical will be Matilda the Musical Jr., with a performance on November 15 at St. Henry High School! We cannot wait to see our students bring this incredible story to life on stage! 🌟
+            <br><br>Auditions will be held on August 4 at Expressions. If your performer plans to audition for Matilda Jr. please choose one of our time slots here:
+            <a href="https://appt.link/matilda-auditions-tuZ3ArrA/EDTMatilda">https://appt.link/matilda-auditions-tuZ3ArrA/EDTMatilda</a>
+            <br><br>We will be offering an Audition Workshop on August 2 from 9:30 AM to 11:30 AM for $50. This is a valuable opportunity for performers to present their audition material in front of others and receive feedback before audition day on August 4. If you are registered for the full week of camp mentioned below, the audition workshop is free of charge.
+            <br><br>Want to really feel prepared for the stage?
+            <br><br>We highly recommend registering for our week-long Behind the Curtain summer camp (July 28-August 1). This is a great opportunity for your performer to brush up on their skills in vocals, acting, and dance before auditions with incredible local professionals - including the amazing Catherine Keen of
+            <a href="https://www.facebook.com/KeenVoiceStudio?__cft__[0]=AZXRn6bz4msHz8SdFT1vV6UUb7iD6EaxTNmkxaTWYI94jhZIil_u2YCjtAgWddwHlo1HQBKqBRoO0LLVqm9X-Gy3ZsMvY-AbcAo6M31FJFlo3b8F3p_Qduq9kvE_ggBNQUZGHODlLV6U5iVm-HdaMqqJmuKjOO_EhsMysdXw3URGGOMfqaoQADBnI1gaypaPOwPi-1g0XhWy2rY5wA2phux2&__tn__=-]K-R">Keen Voice Studio</a>! Camp tuition will not be charged until the week before it begins, but it is important to secure your spot today as space is limited.
+            <br><br>
+            We look forward to seeing many of you at Behind the Curtain, at auditions, and on stage in November!
+        </p>
+    </div>
+</div>
 
 {{--            <div class="row mt-4">--}}
 {{--                <div class="col-md my-3 d-flex justify-content-center">--}}

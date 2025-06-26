@@ -41,6 +41,40 @@
 {{--                    <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register Now!</a>--}}
 {{--                </div>--}}
             </div>
+            <div class="row mt-4">
+                <p>
+                    Get ready to take center stage this summer at our one-week Broadway camp for ages 9 & up! 🌟 Whether you love singing, dancing, acting, this is your chance to train like a true performer!
+                    <br>🎤 Work with incredible theatre professionals, including the amazing Catherine Keen from Keen Voice Studio and more!
+                    <br>💃 Learn Broadway-style choreography, vocal techniques, and storytelling skills!
+                    <br>🎭 Wrap up the week with a showcase performance for family and friends!
+                    <br>Spots are limited—register now and step into the spotlight! 🌟
+                </p>
+{{--                <div class="col-md my-3 d-flex justify-content-center">--}}
+{{--                    <img src="/images/behind-the-curtain.png" alt="frozen picture" class="img-fluid rounded shadow">--}}
+{{--                </div>--}}
+                <div class="my-3 d-flex align-items-center justify-content-center">
+                    <div>
+
+                        {{--                       <p>--}}
+                        {{--                           Frozen Jr. Musical Theater Class and Winter Performance--}}
+                        {{--                           <br>Ages: 8 and up--}}
+                        {{--                           <br>Class Meets: Thursdays 6:00-7:30PM beginning September 12--}}
+                        {{--                           <br>Tech Weeks: December 2-5 and December 9-12--}}
+                        {{--                           <br>Stage Rehearsal & Performances: December 12-14--}}
+                        {{--                           <br>--}}
+                        {{--                           <br>Auditions for main and secondary roles: Thursday, September 5th -- 6:00-7:30PM--}}
+                        {{--                           <br>* If your child prefers to be a part of the ensemble and chorus they do not need to attend auditions--}}
+                        {{--                           <br>* Links to audition materials will be sent once child is registered.--}}
+                        {{--                       </p>--}}
+                        {{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
+                        <div class="my-4">
+                            <div class="btn btn-primary btn-lg">
+                                <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register for Summer!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
