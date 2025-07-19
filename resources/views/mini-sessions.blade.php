@@ -11,22 +11,27 @@
             {{--                title=""--}}
             {{--                info=""--}}
             {{--            />--}}
-            <x-camp
-                image="2025-mini-minions.jpg"
-                title="Minion Mania"
-                info="
-Calling All Minions! Get ready to dance, jump, and groove at MINION MANIA! Join us for a fun-filled hip-hop adventure featuring:
-<br>✨ High-energy Hip Hop Moves
-<br>🎯 Action-packed Obstacle Courses
-<br>💡 Epic Glow Party Fun
-<br>Spots are filling up fast! Sign up today for just $129! Let's move it like a Minion!
-"
-            />
-            <x-camp
-                image="2025-mini-bees.png"
-                title="Busy Bees"
-                info="Our Busy Bees Mini Session is for young children who are ready to explore a creative movement class independently! We can't wait to see the kiddos buzzing around and having a great time!"
-            />
+                        <x-camp
+                            image="mini-bluey.png"
+                            title="Bluey Dance Paw-ty: A Special Dance Class for Ages 18 Months to 3 Years"
+                            info="Join us for a fun and engaging dance session inspired by everyone’s favorite pup, Bluey! Our Bluey Dance Paw-ty is designed to introduce young children to movement, rhythm, and creative play in a joyful and supportive environment. This class is perfect for toddlers who love to move, dance, and explore. Children will enjoy imaginative music-based activities and simple choreography built around the playful spirit of Bluey and friends. Please note: A grownup is required for younger dancers (under 3 years old) or any child who is not yet ready to participate independently. Let’s dance, play, and make new friends—Bluey style!"
+                        />
+{{--            <x-camp--}}
+{{--                image="2025-mini-minions.jpg"--}}
+{{--                title="Minion Mania"--}}
+{{--                info="--}}
+{{--Calling All Minions! Get ready to dance, jump, and groove at MINION MANIA! Join us for a fun-filled hip-hop adventure featuring:--}}
+{{--<br>✨ High-energy Hip Hop Moves--}}
+{{--<br>🎯 Action-packed Obstacle Courses--}}
+{{--<br>💡 Epic Glow Party Fun--}}
+{{--<br>Spots are filling up fast! Sign up today for just $129! Let's move it like a Minion!--}}
+{{--"--}}
+{{--            />--}}
+{{--            <x-camp--}}
+{{--                image="2025-mini-bees.png"--}}
+{{--                title="Busy Bees"--}}
+{{--                info="Our Busy Bees Mini Session is for young children who are ready to explore a creative movement class independently! We can't wait to see the kiddos buzzing around and having a great time!"--}}
+{{--            />--}}
 {{--            <x-camp--}}
 {{--                image="mini-session-bluey.png"--}}
 {{--                title="Bounce & Bop with Bluey"--}}

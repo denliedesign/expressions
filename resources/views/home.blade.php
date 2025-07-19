@@ -80,11 +80,11 @@
             <p class="text-center big-font">
                 From your child’s first class to their graduation performance, EDT has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
-            <div class="d-flex justify-content-center">
-                <div class="btn btn-primary btn-lg">
-                    <a class="text-white text-decoration-none" href="/images/24-25-class-guide-c.pdf" target="_blank">Find Your Class</a>
-                </div>
-            </div>
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <div class="btn btn-primary btn-lg">--}}
+{{--                    <a class="text-white text-decoration-none" href="/images/24-25-class-guide-c.pdf" target="_blank">Find Your Class</a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
     </div>
 
@@ -119,9 +119,9 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/ypad-badge.png" alt="certifications" style="height: 125px; width: auto;">
+                        <img src="/images/logo-tap-roots.png" alt="certifications" style="height: 125px; width: auto;">
                     </div>
-                        <p class="big-font text-center">Youth Protection Advocates in Dance Ambassador (YPAD)</p>
+                        <p class="big-font text-center">Tap Roots</p>
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
