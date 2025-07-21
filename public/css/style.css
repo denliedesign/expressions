@@ -185,3 +185,10 @@ h1, h2, h3, h4, h5, h6 {
 .contact-hover:hover {
     color: white;
 }
+
+.box-yellow {background: #F7F1C3;}
+.box-pink {background: #FBD8DD;}
+.box-blue {background: #D6ECEA;}
+.box-green {background: #E5F3CE;}
+.box-purple {background: #EAD9EB;}
+.box-orange {background: #FAD7BF;}

@@ -29,13 +29,13 @@ Route::get('/expressions-dance-theatre-our-story', function () {
 //    return view('meet-our-faculty');
 //});
 
-Route::get('/certifications-and-recognition', function () {
-    return view('certifications-and-recognition');
-});
+//Route::get('/certifications-and-recognition', function () {
+//    return view('certifications-and-recognition');
+//});
 
-Route::get('/testimonials', function () {
-    return view('testimonials');
-});
+//Route::get('/testimonials', function () {
+//    return view('testimonials');
+//});
 
 Route::get('/recreational', function () {
     return view('recreational');
@@ -61,13 +61,13 @@ Route::get('/competitive-dance', function () {
 //    return view('tuition-and-fees');
 //});
 
-Route::get('/dress-code', function () {
-    return view('dress-code');
-});
-
-Route::get('/news', function () {
-    return view('news');
-});
+//Route::get('/dress-code', function () {
+//    return view('dress-code');
+//});
+//
+//Route::get('/news', function () {
+//    return view('news');
+//});
 
 //previously mini-sessions
 Route::get('/musical-theater-camps', function () {

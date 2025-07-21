@@ -18,9 +18,11 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Story</a></li>
+{{--                            <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Programs</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Teams</a></li>--}}
 {{--                            <li><a class="dropdown-item" href="/meet-our-faculty">Meet Our Faculty</a></li>--}}
-                            <li><a class="dropdown-item" href="/certifications-and-recognition">Certifications & Recognition</a></li>
-                            <li><a class="dropdown-item" href="/testimonials">Testimonials</a></li>
+{{--                            <li><a class="dropdown-item" href="/certifications-and-recognition">Certifications & Recognition</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/testimonials">Testimonials</a></li>--}}
                         </ul>
                     </li>
                     <li class="nav-item mx-3">
@@ -50,16 +52,19 @@
                             <li><a class="dropdown-item" href="/competitive-dance">Competitive Dance</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item mx-3 dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Studio FAQs
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+{{--                    <li class="nav-item mx-3 dropdown">--}}
+{{--                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">--}}
+{{--                            Studio FAQs--}}
+{{--                        </a>--}}
+{{--                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">--}}
 {{--                            <li><a class="dropdown-item" href="/tuition-and-fees">Tuition & Fees</a></li>--}}
-                            <li><a class="dropdown-item" href="/dress-code">Dress Code</a></li>
-                            <li><a class="dropdown-item" href="https://edtfamily.teamapp.com" target="_blank">Calendar</a></li>
-                            <li><a class="dropdown-item" href="/news">News</a></li>
-                        </ul>
+{{--                            <li><a class="dropdown-item" href="/dress-code">Dress Code</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="https://edtfamily.teamapp.com" target="_blank">Calendar</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/news">News</a></li>--}}
+{{--                        </ul>--}}
+{{--                    </li>--}}
+                    <li class="nav-item mx-3">
+                        <a class="nav-link" href="https://edtfamily.teamapp.com/clubs/231826/events?_list=v1" target="_blank">Studio FAQs</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/#ask-us-anything">Contact Us</a>

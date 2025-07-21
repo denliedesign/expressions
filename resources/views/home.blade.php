@@ -74,8 +74,8 @@
             <h1 class="text-center text-white text-uppercase fw-bold" style="text-shadow: 2px 2px 4px black; font-size: 4em;">This is where you <span style="color: #E10100;">start</span>...<br>This is where you <span style="color: #E10100;">grow</span>!</h1>
         </div>
     </div>
-    <div class="pb-5 mb-md-5">
-        <div class="container pb-md-5 mb-md-5">
+    <div class="">
+        <div class="container">
             <h2 class="text-center">We Have Built a Reputation for Excellence in Dance Instruction</h2>
             <p class="text-center big-font">
                 From your child’s first class to their graduation performance, EDT has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
@@ -87,6 +87,87 @@
 {{--            </div>--}}
         </div>
     </div>
+
+    <section class="mb-md-5 pb-md-5">
+        <div class="my-5 pb-md-5">
+            <div class="container">
+                <div class="row row-cols-md-2">
+                    <div class="col-md my-3">
+                        <div class="rounded box-blue" style="min-height: 232px; height: max-content;">
+                            <div class="py-3 px-4">
+                                <div style="color: #3A706D; font-size: 75px; line-height: 0;" class="pt-2 m-0">&#8220;</div>
+                                <div>
+                                    We have been with Expressions for a few years, and it is difficult to put into words how impressed I've been. The productions are first class and the incredible teaching shines through the dancers' technique as well as the choreography. There is a place for everyone here; whether you are interested in competitive dance or recreational, your dancer will get amazing instruction along with discipline and fun. I can't imagine going anywhere else after having been with this amazing studio.
+                                    <br>
+                                    <strong style="color: #3A706D;">Sheridan L.</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md my-3">
+                        <div class="rounded box-yellow" style="min-height: 232px; height: max-content;">
+                            <div class="py-3 px-4">
+                                <div style="color: #857C22; font-size: 75px; line-height: 0;" class="pt-2 m-0">&#8220;</div>
+                                <div>
+                                    I’ve been the Dad that questions the cost. I’ve questioned every dollar. Seeing this group dominate Nationals makes it so much easier. It IS worth it! And being lucky enough to see Drake’s last performance is amazing. Thank you to the absolutely amazing staff, as well the phenomenal owner. My daughter is a better person because of you!
+                                    <br>
+                                    <strong style="color: #857C22;">Brian R.</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md my-3">
+                        <div class="rounded box-pink" style="min-height: 232px; height: max-content;">
+                            <div class="py-3 px-4">
+                                <div style="color: #9E4A56; font-size: 75px; line-height: 0;" class="pt-2 m-0">&#8220;</div>
+                                <div>
+                                    My daughter has been dancing with expressions for two years now, and it’s amazing how far she has come as a dancer in those two years. Each week she looks forward to going to class. She was diagnosed with slight anxiety and dancing has helped her get over that anxiety. The staff is great and the older kids that help out in class are wonderful! Always recommending the studio to others that are looking to start their child in dance class.
+                                    <br>
+                                    <strong style="color: #9E4A56;">Stephanie S.</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md my-3">
+                        <div class="rounded box-green" style="min-height: 232px; height: max-content;">
+                            <div class="py-3 px-4">
+                                <div style="color: #5A7838; font-size: 75px; line-height: 0;" class="pt-2 m-0">&#8220;</div>
+                                <div>
+                                    Teaching staff is incredible. They work tirelessly with the children and the performance is proof. Great group.
+                                    <br>
+                                    <strong style="color: #5A7838;">Patricia D.</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md my-3">
+                        <div class="rounded box-purple" style="min-height: 232px; height: max-content;">
+                            <div class="py-3 px-4">
+                                <div style="color: #6A4C6D; font-size: 75px; line-height: 0;" class="pt-2 m-0">&#8220;</div>
+                                <div>
+                                    We love Expressions! This is my daughter's first year dancing and she looks forward to it every week. She is 3, and they are so good with the "littles". She loves her teacher. The staff is friendly, and you feel very welcome every time you walk through the door. They are always there to answer questions with a smile. The winter show was amazing. I would recommend Expressions to anyone looking for the highest quality dance education for their kids.
+                                    <br>
+                                    <strong style="color: #6A4C6D;">Kimberly M.</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md my-3">
+                        <div class="rounded box-orange" style="min-height: 232px; height: max-content;">
+                            <div class="py-3 px-4">
+                                <div style="color: #9F4F25; font-size: 75px; line-height: 0;" class="pt-2 m-0">&#8220;</div>
+                                <div>
+                                    My daughter and son both take dance at Expressions. The teachers are all very talented and great with young kids. The recitals are amazing and very professional. My children love dance class! We love Expressions!
+                                    <br>
+                                    <strong style="color: #9F4F25;">Amanda R.</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <div style="width: 100%; background: #2A42C8; position: relative;" class="my-0 py-0">
         @include('waves-top')
