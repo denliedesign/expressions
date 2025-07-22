@@ -28,7 +28,7 @@
                     <div>
                         <div class="checklist-group-item">
                             <div class="d-flex align-items-center">
-                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #2a42c8; color: white;" class="p-1 rounded shadow"></ion-icon>
+                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #ff0000; color: white;" class="p-1 rounded shadow"></ion-icon>
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Teachers</span>
                             </div>
                             <p>
@@ -37,7 +37,7 @@
                         </div>
                         <div class="checklist-group-item">
                             <div class="d-flex align-items-center">
-                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #2a42c8; color: white;" class="p-1 rounded shadow"></ion-icon>
+                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #ff0000; color: white;" class="p-1 rounded shadow"></ion-icon>
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Facility</span>
                             </div>
                             <p>
@@ -46,7 +46,7 @@
                         </div>
                         <div class="checklist-group-item">
                             <div class="d-flex align-items-center">
-                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #2a42c8; color: white;" class="p-1 rounded shadow"></ion-icon>
+                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #ff0000; color: white;" class="p-1 rounded shadow"></ion-icon>
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Performances</span>
                             </div>
                             <p>
@@ -55,7 +55,7 @@
                         </div>
                         <div class="checklist-group-item">
                             <div class="d-flex align-items-center">
-                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #2a42c8; color: white;" class="p-1 rounded shadow"></ion-icon>
+                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #ff0000; color: white;" class="p-1 rounded shadow"></ion-icon>
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Programs</span>
                             </div>
                             <p>
@@ -64,7 +64,7 @@
                         </div>
                         <div class="checklist-group-item">
                             <div class="d-flex align-items-center">
-                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #2a42c8; color: white;" class="p-1 rounded shadow"></ion-icon>
+                                <ion-icon name="checkmark" style="font-size: 1.33em; background: #ff0000; color: white;" class="p-1 rounded shadow"></ion-icon>
                                 <span class="fw-bold big-font" style="font-family: 'Fjalla One', sans-serif;">&nbsp; Syllabus</span>
                             </div>
                             <p>

@@ -21,6 +21,6 @@
         <textarea name="message" class="form-control" id="message" name="message" cols="30" rows="10">{{ old('message') }}</textarea>
         <div>{{ $errors->first('message') }}</div>
     </div>
-    <button type="submit" class="btn btn-primary">Send</button>
+    <button type="submit" class="btn btn-danger">Send</button>
     @csrf
 </form>

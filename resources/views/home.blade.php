@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <div style="width: 100%; background: #2A42C8; position: relative;" class="my-0 py-0">
+    <div style="width: 100%; background: #ff0000; position: relative;" class="my-0 py-0">
         @include('waves-top')
         <div class="container text-white py-5">
             <h2 class="text-center mb-5">Why Choose Us?</h2>

@@ -22,7 +22,7 @@
 {{--                <img src="/images/fall-2022-heading.png" alt="fall heading" class="img-fluid rounded">--}}
 {{--            </div>--}}
             <div class="d-flex justify-content-center my-4">
-                <div class="btn btn-primary btn-lg shadow">
+                <div class="btn btn-danger btn-lg shadow">
                     <a class="text-white text-decoration-none" href="https://portal.akadadance.com/auth?schoolId=177" target="_blank">Enroll Now</a>
                 </div>
                 <div class="btn btn-secondary ms-4 btn-lg shadow">

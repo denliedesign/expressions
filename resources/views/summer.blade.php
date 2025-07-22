@@ -68,7 +68,7 @@
                         {{--                       </p>--}}
                         {{--                    <img src="/images/mt-camp-2.jpg" alt="mt camps" class="img-fluid">--}}
                         <div class="my-4">
-                            <div class="btn btn-primary btn-lg">
+                            <div class="btn btn-danger btn-lg">
                                 <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Register for Summer!</a>
                             </div>
                         </div>
