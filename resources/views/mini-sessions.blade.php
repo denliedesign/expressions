@@ -16,6 +16,20 @@
                             title="Bluey Dance Paw-ty: A Special Dance Class for Ages 18 Months to 3 Years"
                             info="Join us for a fun and engaging dance session inspired by everyone’s favorite pup, Bluey! Our Bluey Dance Paw-ty is designed to introduce young children to movement, rhythm, and creative play in a joyful and supportive environment. This class is perfect for toddlers who love to move, dance, and explore. Children will enjoy imaginative music-based activities and simple choreography built around the playful spirit of Bluey and friends. Please note: A grownup is required for younger dancers (under 3 years old) or any child who is not yet ready to participate independently. Let’s dance, play, and make new friends—Bluey style!"
                         />
+                        <x-camp
+                            image="adult-tap.png"
+                            title="Adult Tap"
+                            info="
+<br>Looking for a fun, relaxed way to move and connect with other adults? Join our Adult Tap Session at Expressions Dance Theatre!
+<br>🗓 Tuesdays | Sept 2 – Oct 28
+<br>⏰ 8:00–8:45PM
+<br>📍 2641 Crescent Springs Pike, Erlanger, KY
+<br>(No class Oct 7)
+<br>Whether you're returning to tap or trying it for the first time, this upbeat adult tap session is perfect for all levels. Learn fun rhythms, get your feet moving, and unwind with a great community!
+<br>PLUS… Join us on Nov 4 for a special end-of-session “Tappy Hour” at a local brewery just down the street!
+<br>Tag a friend, lace up those tap shoes, and let’s make Tuesdays your favorite night of the week. 👯‍♀️
+"
+                        />
 {{--            <x-camp--}}
 {{--                image="2025-mini-minions.jpg"--}}
 {{--                title="Minion Mania"--}}
