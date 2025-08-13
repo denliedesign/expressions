@@ -33,9 +33,9 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="/images/2025-fall-a.jpg" alt="fall class guide" class="img-fluid">
-                <img src="/images/2025-fall-b.jpg" alt="fall class guide" class="img-fluid">
-                <img src="/images/2025-fall-c.jpg" alt="fall class guide" class="img-fluid">
+                <img src="/images/2025-fall-1.jpg" alt="fall class guide" class="img-fluid">
+                <img src="/images/2025-fall-2.jpg" alt="fall class guide" class="img-fluid">
+                <img src="/images/2025-fall-3.jpg" alt="fall class guide" class="img-fluid">
 {{--                <a href="/images/23-fall.pdf" target="_blank">--}}
 {{--                    <img src="/images/23-fall-1.jpg" alt="fall flyer" class="img-fluid rounded">--}}
 {{--                </a>--}}
