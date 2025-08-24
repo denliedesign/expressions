@@ -18,8 +18,8 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Story</a></li>
-{{--                            <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Programs</a></li>--}}
-{{--                            <li><a class="dropdown-item" href="/expressions-dance-theatre-our-story">Our Teams</a></li>--}}
+                            <li><a class="dropdown-item" href="/our-programs">Our Programs</a></li>
+                            <li><a class="dropdown-item" href="/competitive-dance">Our Teams</a></li>
 {{--                            <li><a class="dropdown-item" href="/meet-our-faculty">Meet Our Faculty</a></li>--}}
 {{--                            <li><a class="dropdown-item" href="/certifications-and-recognition">Certifications & Recognition</a></li>--}}
 {{--                            <li><a class="dropdown-item" href="/testimonials">Testimonials</a></li>--}}
@@ -30,28 +30,28 @@
 {{--                        <a class="nav-link" href="/summer">Summer</a>--}}
                         <a class="nav-link" href="/mini-sessions">Mini Sessions</a>
                     </li>
-                    <li class="nav-item mx-3">
-                        <a class="nav-link" href="/summer">Summer</a>
+{{--                    <li class="nav-item mx-3">--}}
+{{--                        <a class="nav-link" href="/summer">Summer</a>--}}
 {{--                        <a class="nav-link" href="/fall">Fall</a>--}}
-                    </li>
+{{--                    </li>--}}
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/fall">Fall</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/musical-theater-camps">Musical Theater</a>
                     </li>
-                    <li class="nav-item mx-3 dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Programs
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="/recreational">Recreational</a></li>
-                            <li><a class="dropdown-item" href="/musical-theater">Musical Theater</a></li>
-                            <li><a class="dropdown-item" href="/remarkable-movement">RemarkABLE Movement</a></li>
-                            <li><a class="dropdown-item" href="/track">Track</a></li>
-                            <li><a class="dropdown-item" href="/competitive-dance">Competitive Dance</a></li>
-                        </ul>
-                    </li>
+{{--                    <li class="nav-item mx-3 dropdown">--}}
+{{--                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">--}}
+{{--                            Programs--}}
+{{--                        </a>--}}
+{{--                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">--}}
+{{--                            <li><a class="dropdown-item" href="/recreational">Recreational</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/musical-theater">Musical Theater</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/remarkable-movement">RemarkABLE Movement</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/track">Track</a></li>--}}
+{{--                            <li><a class="dropdown-item" href="/competitive-dance">Competitive Dance</a></li>--}}
+{{--                        </ul>--}}
+{{--                    </li>--}}
 {{--                    <li class="nav-item mx-3 dropdown">--}}
 {{--                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">--}}
 {{--                            Studio FAQs--}}
@@ -64,10 +64,13 @@
 {{--                        </ul>--}}
 {{--                    </li>--}}
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="https://edtfamily.teamapp.com/clubs/231826/events?_list=v1" target="_blank">Studio FAQs</a>
+                        <a class="nav-link" href="https://edtfamily.teamapp.com/clubs/231826/events?_list=v1" target="_blank">Calendar</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/#ask-us-anything">Contact Us</a>
+                    </li>
+                    <li class="nav-item mx-3">
+                        <a class="nav-link" href="https://www.shopnimbly.com/EDT" target="_blank">Shop</a>
                     </li>
 {{--                    <li class="nav-item mx-3 text-center rounded shadow" id="enroll-button" style="background-color: #e11e24;">--}}
 {{--                        <a class="nav-link text-white" href="https://portal.akadadance.com/auth?schoolId=177" target="_blank">Enroll Now!</a>--}}

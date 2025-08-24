@@ -25,6 +25,10 @@ Route::get('/expressions-dance-theatre-our-story', function () {
     return view('expressions-dance-theatre-our-story');
 });
 
+Route::get('/our-programs', function () {
+    return view('our-programs');
+});
+
 //Route::get('/meet-our-faculty', function () {
 //    return view('meet-our-faculty');
 //});
