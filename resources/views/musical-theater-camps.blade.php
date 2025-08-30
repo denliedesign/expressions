@@ -42,7 +42,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col d-flex align-items-center"><img src="/images/matilda-ensemble.png" class="img-fluid" alt=""></div>
+                <div class="col d-flex align-items-center"><img src="/images/ensemble-new.png" class="img-fluid" alt=""></div>
             </div>
 
 {{--            <div class="row mt-4">--}}
