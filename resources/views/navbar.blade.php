@@ -35,7 +35,7 @@
 {{--                        <a class="nav-link" href="/fall">Fall</a>--}}
 {{--                    </li>--}}
                     <li class="nav-item mx-3">
-                        <a class="nav-link" href="/fall">Fall</a>
+                        <a class="nav-link" href="/fall">Spring</a>
                     </li>
                     <li class="nav-item mx-3">
                         <a class="nav-link" href="/musical-theater-camps">Musical Theater</a>

@@ -19,31 +19,53 @@
 {{--                </div>--}}
 {{--            </div>--}}
 
-<div class="row">
-    <div class="col-md my-3">
-        <img src="/images/matilda-jr-flyer.png" class="img-fluid" alt="">
-    </div>
-    <div class="col-md my-3">
-        <p>
-            Congratulations to the cast of Matilda the Musical, JR.! We can't wait to see our students bring this incredible story to life on stage! Tickets will go on sale in October at
-            <a href="https://2968.recitalticketing.com" target="_blank">https://2968.recitalticketing.com</a>
-        </p>
-    </div>
-</div>
-
-            <div class="my-5 row">
-                <div class="col-md d-flex align-items-center">
-                    <div>
-                        <h2 class="text-center text-uppercase">&mdash; Matilda Ensemble Class &mdash;</h2>
-                        <p>
-                            Join the cast of Matilda the Musical in this special ensemble class designed just for young performers ages 5-8! Each week, dancers will build confidence, stage presence, and teamwork as they learn one or two featured routines that will be performed in the full production. This is a wonderful opportunity for younger students to experience being part of a musical theatre show in a fun and age-appropriate setting. The session includes 8 weekly classes, performance participation, and costume fee—all bundled into one simple price. Perfect for young stars ready to shine on stage!
-                            <br><br>
-                            Cost: $349 (includes membership fee, 9 weeks of classes/rehearsals, costumes, two show tickets/two programs)
-                        </p>
-                    </div>
-                </div>
-                <div class="col d-flex align-items-center"><img src="/images/ensemble-new.png" class="img-fluid" alt=""></div>
+            <div class="row">
+                <div class="col"><img src="/images/spongebob-musical.jpg" class="img-fluid rounded shadow" alt=""></div>
+                <div class="col"><img src="/images/mini-go-fish.jpg" class="img-fluid rounded shadow" alt=""></div>
             </div>
+            <div class="row my-3">
+                <p>
+                    <span style="font-size: 1.75em;">We are SO excited to take a trip under the sea this spring with two fabulous Theatre productions at Expressions Dance Theatre!</span>
+                    <br><br>
+                    The <strong>Spongebob Musical Youth Edition</strong> for our MT Junior ages 9 and up and <strong>Go Fish!</strong> for our MT Kids ages 8 and under. Stay tuned for audition details and more!
+                    <br><br>
+                    Sessions begin Thursday, February 19th!
+                    <br>Go Fish! - Thursdays 4:30-5:15PM
+                    <br>The Spongebob Musical - Thursdays 5:30-7:00PM
+                </p>
+            </div>
+            <div>
+                <div class="btn btn-danger btn-lg">
+                    <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll!</a>
+                </div>
+            </div>
+
+{{--<div class="row">--}}
+{{--    <div class="col-md my-3">--}}
+{{--        <img src="/images/matilda-jr-flyer.png" class="img-fluid" alt="">--}}
+{{--        <img src="/images/matilda-jr-flyer.png" class="img-fluid" alt="">--}}
+{{--    </div>--}}
+{{--    <div class="col-md my-3">--}}
+{{--        <p>--}}
+{{--            Congratulations to the cast of Matilda the Musical, JR.! We can't wait to see our students bring this incredible story to life on stage! Tickets will go on sale in October at--}}
+{{--            <a href="https://2968.recitalticketing.com" target="_blank">https://2968.recitalticketing.com</a>--}}
+{{--        </p>--}}
+{{--    </div>--}}
+{{--</div>--}}
+
+{{--            <div class="my-5 row">--}}
+{{--                <div class="col-md d-flex align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <h2 class="text-center text-uppercase">&mdash; Matilda Ensemble Class &mdash;</h2>--}}
+{{--                        <p>--}}
+{{--                            Join the cast of Matilda the Musical in this special ensemble class designed just for young performers ages 5-8! Each week, dancers will build confidence, stage presence, and teamwork as they learn one or two featured routines that will be performed in the full production. This is a wonderful opportunity for younger students to experience being part of a musical theatre show in a fun and age-appropriate setting. The session includes 8 weekly classes, performance participation, and costume fee—all bundled into one simple price. Perfect for young stars ready to shine on stage!--}}
+{{--                            <br><br>--}}
+{{--                            Cost: $349 (includes membership fee, 9 weeks of classes/rehearsals, costumes, two show tickets/two programs)--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col d-flex align-items-center"><img src="/images/ensemble-new.png" class="img-fluid" alt=""></div>--}}
+{{--            </div>--}}
 
 {{--            <div class="row mt-4">--}}
 {{--                <div class="col-md my-3 d-flex justify-content-center">--}}

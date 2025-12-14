@@ -74,6 +74,28 @@
             <h1 class="text-center text-white text-uppercase fw-bold" style="text-shadow: 2px 2px 4px black; font-size: 4em;">This is where you <span style="color: #E10100;">start</span>...<br>This is where you <span style="color: #E10100;">grow</span>!</h1>
         </div>
     </div>
+
+    <div class="container">
+        <div class="row my-5">
+            <div class="col"><img src="/images/make-your-move.jpg" class="img-fluid shadow rounded" alt=""></div>
+            <div class="col d-flex align-items-center">
+                <div>
+                    <p style="font-size: 1.75em;">
+                        If someone in your family is ready to start dance, we’re making it simple. Our programs are built for beginners of all ages. ✨
+                        <br><br>They’re upbeat, supportive, and full of joyful learning, and it’s not too late to join the Expressions Dance Theatre family for the 2025–26 season.
+                        <br><br>We’ve been waiting for you, so save your spot and we’ll see you in January!
+                        <br><br>
+                    </p>
+                    <div class="">
+                        <div class="btn btn-danger btn-lg">
+                            <a class="text-white text-decoration-none" href="https://app.akadadance.com/customer/login?schoolId=AK235599J&c=1" target="_blank">Enroll Now!</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="">
         <div class="container">
             <h2 class="text-center">We Have Built a Reputation for Excellence in Dance Instruction</h2>

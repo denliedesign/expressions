@@ -12,14 +12,22 @@
             {{--                info=""--}}
             {{--            />--}}
                         <x-camp
-                            image="mini-k-pop.jpg"
-                            title="K-Pop Dance Camp"
+                            image="mini-go-fish.jpg"
+                            title="Go Fish!"
                             info="
-Join us for a 6-week mini session packed with <strong>K-Pop fun!</strong> The latest K-Pop movie music, dancing, and nonstop fun! 💃🕺
-<br>&middot; ages 5-7: Wednesdays 6-6:45pm | October 15-November 19
-<br>&middot; ages 8 & up: Tuesdays 7-7:45pm | October 14-November 1
-"
+Musical Theater Kids | 12-week session
+<br>Thursdays 4:30-5:15PM
+<br>Session begins February 19th - Show date TBA!"
                         />
+{{--                        <x-camp--}}
+{{--                            image="mini-k-pop.jpg"--}}
+{{--                            title="K-Pop Dance Camp"--}}
+{{--                            info="--}}
+{{--Join us for a 6-week mini session packed with <strong>K-Pop fun!</strong> The latest K-Pop movie music, dancing, and nonstop fun! 💃🕺--}}
+{{--<br>&middot; ages 5-7: Wednesdays 6-6:45pm | October 15-November 19--}}
+{{--<br>&middot; ages 8 & up: Tuesdays 7-7:45pm | October 14-November 1--}}
+{{--"--}}
+{{--                        />--}}
 {{--                        <x-camp--}}
 {{--                            image="mini-bluey.png"--}}
 {{--                            title="Bluey Dance Paw-ty: A Special Dance Class for Ages 18 Months to 3 Years"--}}

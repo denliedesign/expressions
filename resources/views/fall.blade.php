@@ -8,7 +8,7 @@
     {{--    </div>--}}
     <div class="my-5">
         <div class="container my-md-5 py-md-5">
-            <h2 class="text-center text-uppercase">&mdash; Fall 2025-2026 &mdash;</h2>
+            <h2 class="text-center text-uppercase">&mdash; Spring 2026 &mdash;</h2>
 {{--            <img src="/images/season-25.png" alt="season 25 logo" class="img-fluid">--}}
 {{--                        <div class="d-flex justify-content-center my-4">--}}
 {{--                            <div class="btn btn-primary btn-lg shadow">--}}
@@ -28,14 +28,14 @@
                 <div class="btn btn-secondary ms-4 btn-lg shadow">
                     <a class="text-white text-decoration-none" href="/images/25-dress-code.pdf" target="_blank">Dress Code</a>
                 </div>
-                <div class="ms-4 d-flex align-items-center">
-                    <a href="#musical-theater">Matilda</a>
-                </div>
+{{--                <div class="ms-4 d-flex align-items-center">--}}
+{{--                    <a href="#musical-theater">Matilda</a>--}}
+{{--                </div>--}}
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="/images/2025-fall-1.jpg" alt="fall class guide" class="img-fluid">
-                <img src="/images/2025-fall-2.jpg" alt="fall class guide" class="img-fluid">
-                <img src="/images/cast-list-25.jpg" alt="fall class guide" class="img-fluid">
+                <img src="/images/spring-2026-class-guide-1.jpg" alt="spring class guide" class="img-fluid">
+                <img src="/images/spring-2026-class-guide-2.jpg" alt="spring class guide" class="img-fluid">
+{{--                <img src="/images/cast-list-25.jpg" alt="fall class guide" class="img-fluid">--}}
 {{--                <a href="/images/23-fall.pdf" target="_blank">--}}
 {{--                    <img src="/images/23-fall-1.jpg" alt="fall flyer" class="img-fluid rounded">--}}
 {{--                </a>--}}
